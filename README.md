@@ -39,12 +39,13 @@ Walton operates 22 production facilities manufacturing key components in-house:
 
 ### Porter's Five Forces Analysis
 | Force | Intensity | Rationale |
-| :--- | :--- | :--- |
-| **Threat of New Entrants** | Medium | High capital requirements and established distribution networks create barriers, but policy support for manufacturing lowers them. |
-| **Bargaining Power of Buyers** | High | Numerous alternatives (Samsung, LG, Symphony) and price-sensitive consumers. |
-| **Bargaining Power of Suppliers** | Low-Medium | Vertical integration reduces dependency; only specialized components (semiconductors) have medium power. |
-| **Threat of Substitute Products** | Medium-High | Easy brand substitution; import alternatives available despite price premium. |
-| **Rivalry Among Competitors** | High | Intense price competition with global giants and local players battling for market share. |
+|:------|:-----------|:----------|
+| **Threat of New Entrants** | 🟠 *Medium* | High capital requirements and distribution barriers, but local manufacturing policies reduce entry costs. |
+| **Bargaining Power of Buyers** | 🔴 *High* | Price-sensitive consumers and availability of international alternatives (Samsung, LG, Symphony). |
+| **Bargaining Power of Suppliers** | 🟡 *Low–Medium* | Vertical integration lowers dependency; only specialized components (e.g., semiconductors) hold moderate power. |
+| **Threat of Substitutes** | 🟠 *Medium–High* | Imported alternatives are available; easy brand switching. |
+| **Rivalry Among Competitors** | 🔴 *High* | Intense price competition with strong global and local players. |
+
 
 ### Competitive Landscape
 *   **Refrigerators:** Competing with LG (15%), Samsung (12%)
@@ -67,7 +68,7 @@ Walton operates 22 production facilities manufacturing key components in-house:
 ### Opportunities
 *   **Rising Middle Class:** Bangladesh GDP per capita growing 6%+ annually
 *   **Export Market Expansion:** Current presence in 50+ countries
-*   **Lithium Battery Market:** BDT 113.66 crore investment positioning
+*   **Lithium Battery Market:** BDT 113.66 crore investment positioning [1](https://www.thedailystar.net/business/news/walton-plans-tk-114cr-lithium-battery-factory-3882671)
 *   **Government Incentives:** Import substitution policies and export benefits
 
 ### Threats
@@ -98,7 +99,7 @@ Walton operates 22 production facilities manufacturing key components in-house:
 ### Growth Drivers
 1.  **Market Share Gains:** Continued dominance in core refrigerator/AC segments
 2.  **Export Acceleration:** 50+ country presence with 45%+ growth momentum
-3.  **New Product Revenue:** Digi-Tech merger and lithium battery projects
+3.  **New Product Revenue:** Digi-Tech merger and lithium battery projects [2](https://www.tbsnews.net/economy/industry/walton-hi-tech-merge-digi-tech-business-expansion-cost-cutting-1229276)
 
 ### Margin Drivers
 1.  **Vertical Integration Benefits:** Structural 8-12% cost advantage
