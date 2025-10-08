@@ -27,7 +27,7 @@ This analysis concludes that Walton's primary investment thesis rests on three p
 Walton operates 22 production facilities manufacturing key components in-house:
 *   **Compressors:** 1.5 million units annual capacity (only domestic manufacturer)
 *   **Plastic & Metal Components:** Full control from raw materials to finished parts
-*   **PCB Manufacturing:** Enhanced capability post-Digi-Tech merger [*Digi-Tech Merger*](https://www.tbsnews.net/economy/industry/walton-hi-tech-merge-digi-tech-business-expansion-cost-cutting-1229276)
+*   **PCB Manufacturing:** Enhanced capability post-Digi-Tech merger [(*Digi-Tech Merger*)](https://www.tbsnews.net/economy/industry/walton-hi-tech-merge-digi-tech-business-expansion-cost-cutting-1229276)
 *   **Impact:** Estimated 8-12% cost advantage over import-dependent competitors
 
 #### Revenue Distribution & Sales Channels
@@ -68,7 +68,7 @@ Walton operates 22 production facilities manufacturing key components in-house:
 #### Opportunities
 *   **Rising Middle Class:** Bangladesh GDP per capita growing 6%+ annually
 *   **Export Market Expansion:** Current presence in 50+ countries
-*   **Lithium Battery Market:** BDT 113.66 crore investment positioning [*Lithium-Ion Battery Cell Project*](https://www.thedailystar.net/business/news/walton-invest-tk-114-crore-manufacture-lithium-ion-batteries-locally-3881691)
+*   **Lithium Battery Market:** BDT 113.66 crore investment positioning [(*Lithium-Ion Battery Cell Project*)](https://www.thedailystar.net/business/news/walton-invest-tk-114-crore-manufacture-lithium-ion-batteries-locally-3881691)
 *   **Government Incentives:** Import substitution policies and export benefits
 
 #### Threats
