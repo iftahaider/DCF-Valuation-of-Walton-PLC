@@ -27,7 +27,7 @@ This analysis concludes that Walton's primary investment thesis rests on three p
 Walton operates 22 production facilities manufacturing key components in-house:
 *   **Compressors:** 1.5 million units annual capacity (only domestic manufacturer)
 *   **Plastic & Metal Components:** Full control from raw materials to finished parts
-*   **PCB Manufacturing:** Enhanced capability post-Digi-Tech merger
+*   **PCB Manufacturing:** Enhanced capability post-Digi-Tech merger [*Digi-Tech Merger*](https://www.tbsnews.net/economy/industry/walton-hi-tech-merge-digi-tech-business-expansion-cost-cutting-1229276)
 *   **Impact:** Estimated 8-12% cost advantage over import-dependent competitors
 
 #### Revenue Distribution & Sales Channels
@@ -48,7 +48,7 @@ Walton operates 22 production facilities manufacturing key components in-house:
 
 
 #### Competitive Landscape
-*   **Refrigerators:** Competing with LG (15%), Samsung (12%)
+*   **Refrigerators:** Competing with LG (15% market share), Samsung (12%)
 *   **Air Conditioners:** Competing with Samsung (25%), LG (20%)
 *   **Televisions:** Competing with Samsung (40%), Sony (15%)
 
@@ -68,7 +68,7 @@ Walton operates 22 production facilities manufacturing key components in-house:
 #### Opportunities
 *   **Rising Middle Class:** Bangladesh GDP per capita growing 6%+ annually
 *   **Export Market Expansion:** Current presence in 50+ countries
-*   **Lithium Battery Market:** BDT 113.66 crore investment positioning [1](https://www.thedailystar.net/business/news/walton-plans-tk-114cr-lithium-battery-factory-3882671)
+*   **Lithium Battery Market:** BDT 113.66 crore investment positioning [*Lithium-Ion Battery Cell Project*](https://www.thedailystar.net/business/news/walton-invest-tk-114-crore-manufacture-lithium-ion-batteries-locally-3881691)
 *   **Government Incentives:** Import substitution policies and export benefits
 
 #### Threats
@@ -82,7 +82,7 @@ Walton operates 22 production facilities manufacturing key components in-house:
 #### Growth Drivers
 1.  **Market Share Gains:** Continued dominance in core refrigerator/AC segments
 2.  **Export Acceleration:** 50+ country presence with 45%+ growth momentum
-3.  **New Product Revenue:** Digi-Tech merger and lithium battery projects [2](https://www.tbsnews.net/economy/industry/walton-hi-tech-merge-digi-tech-business-expansion-cost-cutting-1229276)
+3.  **New Product Revenue:** Digi-Tech merger and lithium battery projects 
 
 #### Margin Drivers
 1.  **Vertical Integration Benefits:** Structural 8-12% cost advantage
