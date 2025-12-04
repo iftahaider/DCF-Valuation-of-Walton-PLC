@@ -47,7 +47,7 @@ Walton operates 22 production facilities manufacturing key components in-house:
 
 ![Revenue Forecast](Charts/Revenue_Trend.png)
 
-Walton's revenue declined 5.7% in FY2025 due to political disruption legacy, but recovery is visible with Q1 FY2026 showing +19.4% growth. The forecast projects revenue growth from 7,082 Crore (2025) to 13,656 Crore (2035) with 6.8% CAGR. FY2027E spike reflects WDIL merger integration and lithium project commercial launch. Terminal growth moderates to 3.7-4.8% annually, aligning with Bangladesh's long-term GDP growth expectations. Double-hatched bars distinguish forecasts from actuals.
+> Walton's revenue declined 5.7% in FY2025 due to political disruption legacy, but recovery is visible with Q1 FY2026 showing +19.4% growth. The forecast projects revenue growth from 7,082 Crore (2025) to 13,656 Crore (2035) with 6.8% CAGR. FY2027E spike reflects WDIL merger integration and lithium project commercial launch. Terminal growth moderates to 3.7-4.8% annually, aligning with Bangladesh's long-term GDP growth expectations. Double-hatched bars distinguish forecasts from actuals.
 
 #### Key Metrics
 
@@ -63,14 +63,14 @@ If quarterly growth slips materially below +10% in FY2026–2027, it would indic
 ### Chart 2: Walton's Revenue by Product
 ![Revenue by Product](Charts/Walton_Revenue.png)
 
-This stacked area chart shows how different product segments contribute to Walton’s total revenue over time. Refrigerators remain the largest contributor, while emerging categories like IT products and lithium batteries grow rapidly post-2027. The forecast indicates steady expansion driven by diversification, rising domestic demand, and new product initiatives. Overall, Walton’s revenue base becomes larger and more balanced across categories.
+> This stacked area chart shows how different product segments contribute to Walton’s total revenue over time. Refrigerators remain the largest contributor, while emerging categories like IT products and lithium batteries grow rapidly post-2027. The forecast indicates steady expansion driven by diversification, rising domestic demand, and new product initiatives. Overall, Walton’s revenue base becomes larger and more balanced across categories.
 
 
 ### Chart 3: Operating Performance – EBIT & Margin Expansion
 
 ![EBIT Trend](Charts/EBIT_Margin_Trends.png)
 
-This chart shows Walton’s operating turnaround. Historical EBIT was volatile, but forecasts indicate steady recovery and strong expansion as margins improve. EBIT rises from ~BDT 1,500 crore to over BDT 4,000 crore by 2035, driven by scale, product mix improvement, and better cost control. Margin expansion suggests stronger pricing discipline and operational efficiency, improving long-term profitability.
+> This chart shows Walton’s operating turnaround. Historical EBIT was volatile, but forecasts indicate steady recovery and strong expansion as margins improve. EBIT rises from ~BDT 1,500 crore to over BDT 4,000 crore by 2035, driven by scale, product mix improvement, and better cost control. Margin expansion suggests stronger pricing discipline and operational efficiency, improving long-term profitability.
 
 #### Key Metrics
 
@@ -88,7 +88,7 @@ Gross margin consistently below 36% would signal pricing power or cost-control i
 
 ![Profitability Margins](Charts/Profitability_Margins.png)
 
-The chart highlights synchronized margin recovery across all profitability levels. Gross margin stabilizes at 36-40%, EBIT margin targets 25-30%, and net margin achieves 17.7-19.7% by 2035. Historical compression (2021-2025) reflects structural headwinds: inflation, VAT policy, and forex losses. The forecast incorporates WDIL merger synergies (5-8% cost reduction), lithium battery margin contribution (8-12%), and operating leverage from scale. By terminal year, all margins approach or exceed 2021 peaks despite higher absolute costs, validating DCF terminal assumptions and demonstrating sustainable profitability.
+> The chart highlights synchronized margin recovery across all profitability levels. Gross margin stabilizes at 36-40%, EBIT margin targets 25-30%, and net margin achieves 17.7-19.7% by 2035. Historical compression (2021-2025) reflects structural headwinds: inflation, VAT policy, and forex losses. The forecast incorporates WDIL merger synergies (5-8% cost reduction), lithium battery margin contribution (8-12%), and operating leverage from scale. By terminal year, all margins approach or exceed 2021 peaks despite higher absolute costs, validating DCF terminal assumptions and demonstrating sustainable profitability.
 
 #### Key Metrics
 
@@ -106,7 +106,7 @@ If WDIL integration is delayed by more than 2 years, terminal margins could be 1
 
 ![Liquidity Ratios](Charts/Historical_Liquidity_Ratios.png)
 
-Liquidity ratios show that Walton’s short-term financial health has improved over time. The current ratio increased from below 2.0x to 2.55x, indicating stronger working capital management. Quick and cash ratios also improved, suggesting better cash availability and reduced liquidity stress. Overall, the company became more capable of meeting short-term obligations, improving financial stability and risk management.
+> Liquidity ratios show that Walton’s short-term financial health has improved over time. The current ratio increased from below 2.0x to 2.55x, indicating stronger working capital management. Quick and cash ratios also improved, suggesting better cash availability and reduced liquidity stress. Overall, the company became more capable of meeting short-term obligations, improving financial stability and risk management.
 
 #### Investment Insight
 
@@ -117,7 +117,7 @@ For investors, it is a good sign that the company will have fewer liquidity cris
 
 ![EPS Trend](Charts/EPS_Trend.png)
 
-EPS declined from 2021–2023 due to margin pressure and softer demand. However, the forecast shows strong and consistent EPS growth driven by higher operating margins, rising domestic demand, and cost efficiency. EPS nearly doubles by 2035, highlighting the company’s earnings recovery and long-term value creation potential. This trend signals improved financial health and an enhanced ability to generate shareholder returns.
+> EPS declined from 2021–2023 due to margin pressure and softer demand. However, the forecast shows strong and consistent EPS growth driven by higher operating margins, rising domestic demand, and cost efficiency. EPS nearly doubles by 2035, highlighting the company’s earnings recovery and long-term value creation potential. This trend signals improved financial health and an enhanced ability to generate shareholder returns.
 
 #### Key Metrics
 
@@ -135,7 +135,7 @@ For dividend-focused investors, meaningful and sustainable cash yields appear mo
 
 ![WACC Sensitivity](Charts/WACC_Summary.png)
 
-This figure summarizes Walton’s capital structure and cost of capital components. With equity forming ~82.5% of total capitalization and debt 17.5%, the weighted cost of capital is 16.71%. The charts show that equity is significantly more expensive than debt, driving up WACC. This reflects higher risk perception in Bangladesh’s equity markets and contributes to a conservative valuation.
+> This figure summarizes Walton’s capital structure and cost of capital components. With equity forming ~82.5% of total capitalization and debt 17.5%, the weighted cost of capital is 16.71%. The charts show that equity is significantly more expensive than debt, driving up WACC. This reflects higher risk perception in Bangladesh’s equity markets and contributes to a conservative valuation.
 
 #### Investment Insight
 
@@ -163,7 +163,7 @@ Because 34.4% of EV is terminal, small changes in long‑run margins, WACC, or g
 
 ![WACC Sensitivity](Charts/WACC_Sensitivity_Heatmap.png)
 
-The heatmap shows fair value per share from 237–415 depending on WACC and terminal growth (g). The base case is 287.06 at WACC 16.71% and g = 4.0%. WACC is the dominant driver: a 1 percentage point change shifts value by roughly 30–50 per share. The current price of 376.60 implies either lower WACC (~15%) or higher g (~4.5%) than the base case.
+> The heatmap shows fair value per share from 237–415 depending on WACC and terminal growth (g). The base case is 287.06 at WACC 16.71% and g = 4.0%. WACC is the dominant driver: a 1 percentage point change shifts value by roughly 30–50 per share. The current price of 376.60 implies either lower WACC (~15%) or higher g (~4.5%) than the base case.
 
 #### Investment Insight
 
