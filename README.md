@@ -185,7 +185,7 @@ The valuation is highly sensitive to macro variables (rates, risk premium). Any 
 | EPS          | 54.11 | 40.16 | 25.84 | 44.78 | 34.22 |
 | EBIT Margin  | 27.66% | 21.24% | 23.46% | 25.02% | 20.93% |
 
-### Forecast Assumptions (FY2026E–FY2035E)
+### 🌱 Forecast Assumptions (FY2026E–FY2035E)
 
 | Assumption | 2026E | 2027E | 2030E | 2035E |
 |-----------|-------|-------|-------|-------|
@@ -270,10 +270,10 @@ I acknowledge that this model has some limitations. These are as follows:
 - The model is extremely sensitive to small changes in WACC and terminal growth, causing large swings in fair value.
 - Beta is estimated from DSEX, which is a shallow and sometimes illiquid market. Regression-based beta for emerging markets may not reflect the true systematic risk of the company.
 - For calculating depreciation & amortization, I grouped PPE, Intangible Assets, and Right-of-Use Assets as operating assets. Here, a detailed depreciation schedule could be prepared.
-- I assumed Walton will successfully conduct its merger of WDIL and undertake the lithium battery project. Here, I have made some simplistic assumptions. A thorough M&A and Project analysis would lead to more accurate results.
+- I assumed Walton would successfully conduct its merger of WDIL and undertake the lithium battery project. Here, I have made some simplistic assumptions. A thorough M&A and Project analysis would lead to more accurate results.
 - Forecast capex includes a large lithium battery expansion whose returns are unpredictable.
 - The debt schedules have been developed following Paul Pignataro's guidance. This could have been created more accurately.
-- Finally, Walton reported its Cash Flow Statement using the Direct Method. But I followed the converted indirect version of the Cash Flow Statement from StockAnalysis. This can be some mistakes due to the classification issue of StockAnalysis. 
+- Finally, Walton reported its Cash Flow Statement using the Direct Method. But I followed the converted indirect version of the Cash Flow Statement from StockAnalysis. There may be some mistakes due to StockAnalysis's classification issue. 
 
 
 ## Disclaimer
