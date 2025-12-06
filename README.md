@@ -197,24 +197,11 @@ Based on the DCF analysis, Walton Hi-Tech appears **overvalued relative to its i
 
 ### 🔻 1. Weakening Demand & High Price Sensitivity
 
-Bangladesh’s consumer durables sector is experiencing **slower demand recovery** due to:
-
-- Inflationary pressure reducing household purchasing power  
-- FX volatility increasing imported component costs  
-- High interest rates discouraging durable goods purchases  
-
-These macro headwinds place **structural pressure on volume growth** and limit pricing power.
-
+Bangladesh’s consumer durables sector is experiencing **slower demand recovery** due to inflationary pressure reducing household purchasing power, FX volatility increasing imported component costs and high interest rates discouraging durable goods purchases. These macro headwinds place structural pressure on volume growth and limit pricing power.
 
 ### 🔻 2. Margin Compression Risk
 
-Despite strong brand equity, Walton faces rising margin pressure from:
-
-- Higher raw material costs (steel, copper, electronic components)  
-- Aggressive pricing and product offerings from Chinese competitors  
-- Operating leverage risk as capacity continues to expand  
-
-In this environment, **medium-term EBITDA margin expansion appears unlikely**, and downside surprises are possible if costs remain elevated.
+Despite strong brand equity, Walton faces rising margin pressure from higher raw material costs (steel, copper, electronic components), aggressive pricing and product offerings from Chinese competitors and operating leverage risk as capacity continues to expand. In this environment, medium-term EBITDA margin expansion appears unlikely, and downside surprises are possible if costs remain elevated.
 
 ### 🔻 3. Balance Sheet Risk & High Cost of Capital
 
@@ -223,7 +210,7 @@ Key balance sheet and funding risks include:
 - Elevated short-term borrowings and refinancing exposure  
 - High working capital requirements tied up in inventory and receivables  
 - Bangladesh’s high equity risk premium materially lifting the cost of equity and WACC  
-- Rising financial costs constraining **free cash flow growth**  
+- Rising financial costs constraining free cash flow growth  
 
 Together, these factors weaken equity value creation potential.
 
