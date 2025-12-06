@@ -25,7 +25,7 @@
 
 | Category | Current Local Manufacturing | Import Dependency | Market Leader |
 |----------|-----------------------------|-------------------|----------------|
-| Refrigerators | 90%+ locally made | ~10% imports | Walton (75% market share) |
+| Refrigerators | 90%+ locally made | ~10% imports | Walton (65% market share) |
 | Air Conditioners | 65% locally made | 35% imports | Walton (significant share) |
 | Televisions | 52% locally made | 48% imports | Walton (25%+ share) |
 | Washing Machines | 50%+ locally made | 50% imports | Multiple players |
