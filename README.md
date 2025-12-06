@@ -4,7 +4,7 @@
 <br>
 **Tools:** Excel, LankaBangla Financial portal, Dhaka Stock Exchange (DSE), Walton's Annual Reports, StockAnalysis
 
-**Note:** I followed **Financial Modeling and Valuation: A Practical Guide to Investment Banking and Private Equity** by Paul Pignataro and **YouTube Channel:** [(Paul Pignataro)](https://youtube.com/@anextraining?si=y-K5Ga1ncVwaRtap)
+**Note:** I followed a book called "**Financial Modeling and Valuation: A Practical Guide to Investment Banking and Private Equity**" by Paul Pignataro and **YouTube Channel:** [(Paul Pignataro)](https://youtube.com/@anextraining?si=y-K5Ga1ncVwaRtap)
 
 
 ## Business Analysis: Walton Hi-Tech Industries PLC
@@ -47,13 +47,6 @@ Walton operates 22 production facilities manufacturing key components in-house:
 
 > Walton's revenue declined 5.7% in FY2025 due to political disruption legacy, but recovery is visible with Q1 FY2026 showing +19.4% growth. The forecast projects revenue growth from 7,082 Crore (2025) to 13,656 Crore (2035) with 6.8% CAGR. FY2027E spike reflects WDIL merger integration and lithium project commercial launch. Terminal growth moderates to 3.7-4.8% annually, aligning with Bangladesh's long-term GDP growth expectations. Double-hatched bars distinguish forecasts from actuals.
 
-#### Key Metrics
-
-- **Historical CAGR (2021–2025):** –1.2% (volatile due to disruption)  
-- **Forecast CAGR (2025–2035):** +6.8% (moderate, sustainable)  
-- **FY2026E Revenue:** 7,510 Cr (+6.0% vs FY2025)  
-- **FY2027E Revenue:** 9,103 Cr (+21.2% – merger + lithium ramp)
-
 #### Investment Insight
 
 If quarterly growth slips materially below +10% in FY2026–2027, it would indicate downside risk vs. the modeled recovery pace.
@@ -69,13 +62,6 @@ If quarterly growth slips materially below +10% in FY2026–2027, it would indic
 ![EBIT Trend](Charts/EBIT_Margin_Trends.png)
 
 > This chart shows Walton’s operating turnaround. Historical EBIT was volatile, but forecasts indicate steady recovery and strong expansion as margins improve. EBIT rises from ~BDT 1,500 crore to over BDT 4,000 crore by 2035, driven by scale, product mix improvement, and better cost control. Margin expansion suggests stronger pricing discipline and operational efficiency, improving long-term profitability.
-
-#### Key Metrics
-
-- **FY2025 EBIT:** 1,482 Cr (20.93% margin)  
-- **FY2030E EBIT:** 2,878 Cr (26.0% margin)  
-- **FY2035E EBIT:** 4,097 Cr (30.0% margin)  
-- **Net Margin Recovery:** Low‑teens to high‑teens by terminal year
 
 #### Investment Insight
 
@@ -116,13 +102,6 @@ For investors, it is a good sign that the company will have fewer liquidity cris
 ![EPS Trend](Charts/EPS_Trend.png)
 
 > EPS declined from 2021–2023 due to margin pressure and softer demand. However, the forecast shows strong and consistent EPS growth driven by higher operating margins, rising domestic demand, and cost efficiency. EPS nearly doubles by 2035, highlighting the company’s earnings recovery and long-term value creation potential. This trend signals improved financial health and an enhanced ability to generate shareholder returns.
-
-#### Key Metrics
-
-- **EPS CAGR (2025–2035):** +9.9%  
-- **FY2026E EPS:** 43.76 (+27.9% vs 2025)  
-- **FY2030E EPS:** 70.15  
-- **FY2035E EPS:** 88.84
 
 #### Investment Insight
 
