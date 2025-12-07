@@ -2,7 +2,8 @@
 
 ---
 
-## Bangladesh Economic Overview (FY2025-FY2026)
+## Bangladesh Economic Overview
+Bangladesh’s economy is growing, but more slowly than before. Growth has come down because of high inflation, tighter policy, and political unrest.
 
 ### Real GDP Growth:
 
@@ -13,17 +14,14 @@
 | FY2025 | 3.7% | Political unrest (July-Aug 2024), policy tightening |
 | FY2026 (Forecast- ADB) | 5.1% | Recovery post-stabilization |
 
-### Key Economic Disruptors in FY2025:
-
-- **July-August 2024 Political Uprising:** Student-led protests disrupted business for 4-6 weeks  
-- **Manufacturing Impact:** 11% YoY decline in H1 FY2025 earnings for Walton  
-- **Market Sentiment:** Heightened uncertainty, reduced consumer spending  
+In July–August 2024, there were large student‑led protests. These disrupted business activity for around 4–6 weeks. As a result many factories and shops were closed or operated at lower capacity and consumers delayed non‑essential purchases, including appliances. For Walton, this showed up as lower sales and profits in FY2025 (e.g., around 11% YoY earnings drop in H1) and slower recovery in demand, even after the protests ended. From FY2026 onward, growth is expected to improve again, but the environment is still not as easy as before.
 
 ---
 
 ## Inflation Dynamics
+Inflation has been one of the most important macro challenges. It peaked in double digits and is now slowly easing, but still remains high.
 
-### Inflation Trajectory (% YoY):
+### Inflation Trend (% YoY):
 
 | Period | Inflation Rate | Trend |
 |--------|----------------|--------|
@@ -33,26 +31,16 @@
 | FY2026 Projection (ADB) | 8.0% | Elevated but declining |
 | FY2030 Projection (IMF) | 5.54% | Approaching 5-6% central bank target |
 
-### Root Causes of Inflation:
+The taka depreciated around 39.5% vs USD between Jan 2022 and Jan 2025 [(LightCastle Analytics Wing)](https://lightcastlepartners.com/insights/2025/03/bangladesh-economic-growth-investment-challenges/). This sharply increased the local cost of imported raw materials and components. Global commodity prices and import dependence increased operational costs. Higher government spending on subsidies and food stockpiling supported demand but also added to inflation.
 
-- **Currency Devaluation Pass-Through:** BDT depreciation 39.53% (Jan 2022 - Jan 2025) inflates import costs  
-- **Supply-Side Shocks:** Global commodity prices, import pressures  
-- **Demand-Side Factors:** Government spending on subsidies (Tk 279.79 crore in H1 FY25) and food stockpiling  
-- **Energy Costs:** Fuel prices and electricity tariffs  
-- **Wage Growth:** Inflation-driven wage pressures post-political unrest  
-
-### Implications for Walton:
-
-- **COGS Pressure:** Import-dependent raw materials face higher landed costs  
-- **Pricing Power Limitation:** Domestic market price sensitivity amid inflation  
-- **Working Capital:** Increased inventory financing costs at high interest rates  
-- **Forex Losses:** Currency devaluation creates realized and unrealized FX losses  
+Customers are under pressure and are very price‑sensitive. So, Walton is unable to fully raise prices. Higher prices mean more cash tied up in inventories and receivables, and that cash is financed at high interest rates. Sharp exchange rate moves create both realized and unrealized FX losses, as seen in FY2025. In simple terms: high inflation and a weak currency increase Walton’s costs and make it harder to raise prices, squeezing margins.
 
 ---
 
 ## Currency & Foreign Exchange Crisis
+Bangladesh has gone through a mini‑FX crisis with significant taka depreciation and pressure on reserves.
 
-### Bangladeshi Taka Depreciation Trajectory:
+### Bangladeshi Taka Depreciation Trend:
 
 | Period | BDT/USD Rate | Cumulative Depreciation |
 |--------|--------------|--------------------------|
@@ -61,31 +49,14 @@
 | May 2025 | 120.54 | -43.46% (peak) |
 | November 2025 | 120.31 | -43.34% (stabilizing) |
 
-### Foreign Exchange Reserves:
+In May 2025, the central bank shifted towards a more flexible exchange rate regime to reduce pressure on reserves. This caused a one‑time devaluation spike but has helped stabilization since then, combined with tighter monetary policy.
+Every 1% depreciation in the taka can raise COGS by roughly 0.3–0.5% because so much of Walton’s input costs are import‑linked. Any foreign currency loans or payables become more expensive in BDT terms. On the positive side, a weaker taka makes Walton’s exports more competitive in foreign markets, which supports the export‑driven parts of the business (including potential battery exports). In FY2025, Walton reported around 123.6 crore in forex losses; the size of this item in future years will depend heavily on the stability of the exchange rate. Walton has some natural hedging through growing exports, but not enough to fully offset FX risk.
 
-- **Current Level:** $32.15 billion (October 2025)  
-- **Peak Level (Pre-Crisis):** ~$48 billion (early 2023)  
-- **Recovery Trend:** Rebuilding after May 2025 exchange rate reform  
-- **Months of Import Coverage:** Around 3.5 months (adequate but concerning)  
-
-### Exchange Rate Policy Shift (May 2025):
-
-- **New Regime:** Moved from managed float to more flexible exchange rate  
-- **Objective:** Reduce pressure on forex reserves, allow market determination  
-- **Impact:** Initial 5-7% devaluation spike; now stabilizing  
-- **Central Bank Guidance:** Maintaining tight monetary conditions to rebuild reserves  
-
-### Implications for Walton:
-
-- **Import Cost Inflation:** Every 1% taka depreciation increases COGS by 0.3-0.5% (import-dependent)  
-- **Finance Cost Burden:** Foreign currency loan repayments increase in BDT terms  
-- **Export Opportunity:** Currency devaluation makes exports more competitive (positive for lithium battery export potential)  
-- **Forex Losses:** Tk 123.6 crore recorded in FY2025; magnitude dependent on future depreciation  
-- **Operational Hedging:** Limited natural hedges; export growth (46%) helps partially offset  
 
 ---
 
 ## Monetary Policy & Interest Rates
+To fight inflation and protect the currency, Bangladesh has raised policy rates significantly.
 
 ### Policy Rate Evolution:
 
@@ -105,23 +76,12 @@
 | July 2025 | 12.2% | Current peak |
 | FY2026 Guidance | 11.5-12.0% | Likely to persist |
 
-### Credit Growth:
-
-- **FY2024:** 9.8% private sector credit growth  
-- **FY2025:** 6.0% private sector credit growth  
-- **Trend:** Sharp deceleration due to tight monetary policy  
-
-### Implications for Walton:
-
-- **Increased Finance Costs:** Higher borrowing costs directly impact profitability  
-- **WACC Expansion:** Equity cost of capital also higher due to macro uncertainty  
-- **Working Capital Financing:** Increased inventory/receivables financing costs  
-- **Capital Project Financing:** Lithium battery project (Tk 113.66 crore) financed at higher rates  
-- **Dividend Capacity:** Higher debt servicing reduces available earnings for dividend  
+Short‑term and long‑term borrowing costs are significantly higher, directly reducing net profit. The cost of both debt and equity rises in this high‑rate, high‑risk environment, which depresses DCF valuations. More expensive inventory and receivables financing puts extra pressure on cash flows. The lithium battery project (113.66 crore) and other capex are financed at substantially higher interest rates, lengthening payback periods. Higher interest and principal payments leave less room for generous dividends. In short, the current monetary policy regime makes debt‑funded growth more expensive and risky.
 
 ---
 
 ## Fiscal Policy & Government Spending
+The government has also faced fiscal pressures, balancing subsidies and welfare against weak revenue growth.
 
 ### Fiscal Deficit Dynamics:
 
@@ -130,59 +90,29 @@
 | July-Nov 2023 | 0.03% of GDP | Baseline | Tight controls |
 | July-Nov 2024 | 0.7% of GDP | +2233% | Subsidies & food stockpiling |
 
-### Government Spending (July-Nov 2024):
-
-- **Subsidies:** Tk 279.79 crore (up 89% YoY)  
-- **Food Stockpiling:** Tk 43.23 crore (up 87% YoY)  
-- **Total Revenue Collection:** Growing only 1.7% YoY  
-- **Tax Revenue:** Declining 3% YoY (concerning trend)  
-
-### Structural Fiscal Challenges:
-
-- **Low Tax-to-GDP Ratio:** Bangladesh at ~9%, regional average ~15%  
-- **Tax Compliance Issues:** Weak enforcement and evasion  
-- **Subsidies Burden:** Energy, fuel, food subsidies crowding out productive investment  
-- **Infrastructure Spending:** Projects compete with welfare spending  
-- **Debt Sustainability:** External debt ~$100 billion; fiscal pressure mounting  
-
-### Implications for Walton:
-
-- **Business Confidence:** Government financial stress reduces economic growth  
-- **Regulatory Risk:** Pressure to increase taxes on profitable companies (electronics industry is target)  
-- **VAT/Tax Changes:** Recent VAT increases on AC/refrigerators demonstrate revenue-raising pressure  
-- **Infrastructure:** Limited government capex affects demand for Walton's industrial products (elevators, compressors)  
-- **Consumer Demand:** Reduced purchasing power from fiscal consolidation  
+Bangladesh has a low tax‑to‑GDP ratio compared to regional peers, with ongoing issues in compliance and enforcement. At the same time, subsidies (fuel, energy, food) and welfare spending are high, while infrastructure spending also competes for limited resources. Fiscal strain and weak tax collection can weigh on overall growth and investor confidence. As the government searches for revenue, profitable sectors like electronics and appliances could see higher VAT, excise, or corporate tax rates. Recent VAT increases on ACs and refrigerators are warning signs. Limited fiscal space for infrastructure spending may slow industrial and construction activity, which affects demand for items like elevators and industrial equipment. Walton must be prepared for possible further tax and tariff changes as the government tries to stabilize public finances.
 
 ---
 
 ## Structural Economic Challenges
+Beyond short‑term cycles, Bangladesh has several structural vulnerabilities that affect long‑term risk for companies like Walton.
 
 ### Key Vulnerabilities:
 
 #### Remittance Dependency:
-- Annual remittances: ~$20 billion (9-10% of GDP)  
-- Declining trend post-2020; vulnerable to global employment  
-- USD depreciation would reduce remittance value  
+Annual worker remittances of around 20 billion USD (9–10% of GDP) are a major income source. Slower global growth or job losses abroad can hurt remittances, reducing household consumption at home.
 
 #### Import Dependency:
-- 60%+ manufacturing inputs from imports (oil, machinery, raw materials)  
-- Currency devaluation directly inflates COGS  
-- Limited domestic alternatives for critical inputs  
+Over 60% of manufacturing inputs (oil, machinery, raw materials, electronic components) are imported. This makes the economy and companies like Walton highly sensitive to FX moves and global supply disruptions. Local alternatives for many critical inputs are limited.
 
 #### Garment Sector Dominance:
-- Accounts for 80%+ of merchandise exports  
-- Vulnerable to global demand shocks  
-- Geopolitical risks (trade tensions, labor issues)  
+RMG accounts for over 80% of merchandise exports. Any shock to global apparel demand, trade policies, or compliance standards can hurt overall GDP and jobs, indirectly affecting domestic demand for appliances.
 
 #### Financial Sector Fragility:
-- Non-performing loans (NPL) ratio elevated (5%+)  
-- Banking sector undercapitalized in some institutions  
-- Credit quality deteriorating  
+Non‑performing loans (NPLs) are officially >5%, but underlying stress may be higher. Some banks are undercapitalized and reluctant to lend aggressively. Weak credit quality can limit access to affordable financing for corporates.
 
 #### External Imbalances:
-- Current account deficit: improving but remains concerning  
-- Import coverage: ~3.5 months (adequate but declining from 5+ months peak)  
-- External debt servicing: increasing  
+Current account deficits have improved somewhat, but external debt and interest payments are rising. Import cover has fallen from >5 months to ~3.5 months, leaving less buffer for new shocks. For Walton, these structural challenges translate into higher long‑run risk, higher required returns (WACC), and greater volatility in cash flows.
 
 ---
 
@@ -190,11 +120,13 @@
 
 ### Positive Factors for Walton:
 
-- **GDP Recovery Path:** FY2026 growth projection of ~5% offers demand tailwind  
-- **Middle-Income Growth:** Rising incomes supporting consumer discretionary spending  
+- **GDP Recovery Path:** From FY2026 onward, GDP growth is expected to normalize around 5%. Even at this level, it provides a decent base for appliance demand.  
+- **Middle-Income Growth:** The gradual expansion of the middle class supports long‑term demand for consumer durables, especially “affordable quality” products where Walton is strong.  
 - **Electrification & Appliance Penetration:** Growing rural electrification driving AC/TV/refrigerator demand  
 - **Export Potential:** Currency depreciation improves export competitiveness (Walton 46% export growth in FY2025)  
 - **Govt. Support:** Ongoing VAT exemptions and tax breaks for electronics manufacturing  
 - **Regional Integration:** BIMSTEC/SAARC trade expansion opportunities  
 - **Energy Transition:** Lithium battery project aligns with renewable energy push  
 
+
+**Note:** All the data sources and references are given in a separate file under Data folder.
