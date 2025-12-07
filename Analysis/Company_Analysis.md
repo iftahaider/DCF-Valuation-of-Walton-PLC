@@ -2,13 +2,9 @@
 
 ## Acute Near-Term Operational Risks
 
-### Political Disruption Legacy & Market Recovery (H2 FY2024–H1 FY2025)
-
-#### Impact Timeline:
-- July–August 2024 Uprising: Disrupted 4–6 weeks of operations (verified)
-- Consumer confidence damage extended through FY2025
-- Recovery Evidence: Q1 FY2026 showing 19.4% growth validates momentum
-- Forward Risk: Normalized demand patterns may not sustain if macro conditions worsen
+### Political Disruption Legacy & Market Recovery 
+Walton’s recent performance has been heavily affected by the political unrest in July–August 2024. Operations were disrupted for around 4–6 weeks, and even after activity resumed, consumer confidence remained weak for the rest of FY2025. Many households delayed large purchases like appliances.
+By Q1 FY2026, there are clear signs of recovery – revenue growth of about 19.46% shows that demand is coming back as the political situation stabilizes [(Q1 Un-Audited FS)](https://drive.google.com/file/d/1nj7SzscqWmpydUnLJwTOBqO4XGnAD2MY/view). However, this recovery is still fragile. If macro conditions worsen again (for example, renewed unrest or another shock), demand could slow and the recovery path might flatten.
 
 ---
 
@@ -19,12 +15,12 @@
 - EPS decline: **–23.6%** (৳34.22 vs. ৳44.78 in FY2024)  
 - Net Operating Cash Flow: **–67.8%** per share (৳58.20 in FY2025 vs. ৳56.96 in FY2024)
 
-**DCF Assumption:** Base case assumes **10–12%** revenue growth resumption in FY2026E (supported by Q1 actual growth).  
-If Q4 FY2025 disappoints, growth trajectory could compress by **300–400 bps**.
+In the DCF model, the base case assumes that this is a temporary dip and that revenue growth returns to around 10–12% in FY2026, supported by the strong Q1 FY2026 performance. If Q4 FY2025 and early FY2026 numbers disappoint, medium‑term growth might be closer to 7–8%, which would lower valuation by reducing the compounding effect over 10 years.
 
 ---
 
 ## Severe Margin Compression Dynamics
+Walton has not only suffered from weaker demand but also from significant pressure on margins.
 
 ### Root Cause Analysis
 
@@ -34,6 +30,7 @@ If Q4 FY2025 disappoints, growth trajectory could compress by **300–400 bps**.
 | Operating Margin         | 22.7%         | Severe         | –110 bps from 23.8% (FY2024)     |
 | Finance Costs (% Sales)  | 6.33%         | Elevated       | +22 bps from 6.11% (FY2024)      |
 | Forex Losses (Tk Crore)  | 123.6         | Major          | Taka depreciation impact         |
+Margins have fallen even though revenue declined only mid‑single digits. This shows that fixed costs, finance costs, and FX losses have had a strong negative effect.
 
 ---
 
@@ -56,9 +53,7 @@ If Q4 FY2025 disappoints, growth trajectory could compress by **300–400 bps**.
 - Distribution cost higher due to extended dealer credit terms
 
 #### **DCF Implications**
-- Margin recovery assumed: **14.8–15.3%** by FY2030–35E  
-- If inflation persists → terminal margin may fall **100–150 bps**  
-- Sensitivity: **100 bps margin decline → 20–30 BDT/share valuation loss**
+The DCF model assumes that operating margins gradually recover, approaching 14.8–15.3% net margin by FY2030–2035, as inflation moderates and projects like lithium batteries and WDIL contribute. If inflation stays high or cost pressures persist, long‑term margins could end up 100–150 bps lower than in the base case. Roughly, a 100 bps reduction in terminal margin can reduce fair value by around 20–30 per share, making margin recovery a critical assumption.
 
 ---
 
@@ -87,9 +82,10 @@ Debt requirement may push leverage to **25–28% D/E**.
 
 ---
 
-## 6.2 Medium-Term Strategic Risks: WDIL Merger & Lithium Battery Project
+## Medium-Term Strategic Risks: WDIL Merger & Lithium Battery Project
 
 ### WDIL Merger Execution Risk (High Impact)
+The WDIL merger is strategically attractive – it adds IT products (laptops, desktops, mobiles, PCBs, e‑bikes) and deepens vertical integration. However, it also brings meaningful execution risk.
 
 #### Deal Structure & Status
 - MOU signed between WHIPLC & WDIL  
@@ -136,6 +132,7 @@ Debt requirement may push leverage to **25–28% D/E**.
 ---
 
 ## Lithium Battery Project Execution Risk (Highest Priority, ৳113.66 Cr Investment)
+The lithium battery project is one of Walton’s most important future growth bets, but also one of the riskiest.
 
 ### Project Scope & Timeline
 - Approved: **April 2025**  
@@ -179,10 +176,7 @@ Debt requirement may push leverage to **25–28% D/E**.
 - Payback may extend to **4–5 years**  
 
 ### DCF Impact
-- Base case EBIT contribution: **FY2029–30**  
-- 1-year delay → **15–20% PV reduction**  
-- Margin downside (10% vs. 12%) → **20–30% lower contribution**  
-- Per-share valuation loss: **10–20 BDT**
+The base case assumes meaningful EBIT contribution from around FY2029–2030. A one‑year delay and slightly lower margins could reduce the project’s present value by 15–30%, which translates into roughly 10–20 per share on the overall valuation.
 
 ---
 
@@ -327,13 +321,7 @@ Impacts:
 | FY2024      | 350%         | —              | 350%                  | 94% (unsustainable) |
 | FY2025      | 175%         | 10%            | 185%                  | 61.7%        |
 
-### Key Observation: Significant Dividend Cut in FY2025
-- Cash dividend reduced **50%** (from 350% → 175%)  
-- Stock dividend (**10%**) added to compensate partially  
-- Rationale: Cash preservation for lithium project (৳113.66 Cr)  
-- Result:  
-  - Cash return to investors ↓ significantly  
-  - Equity diluted via stock dividend (~3%)
+In FY2025, Walton cut its cash dividend by 50% (from 350% to 175%) and introduced a 10% stock dividend to partly offset the perceived impact. FY2020–2024 dividends were generous but at times unsustainable. FY2025 marks a deliberate shift to a more balanced policy, with cash being preserved for major projects like the lithium battery plant. Shareholders experience lower cash returns in the short term, but the aim is to support long‑term growth and value creation.
 
 ---
 
@@ -412,9 +400,11 @@ Expected Cash Release: **৳50–100 Cr**
 | FY2026-30+       | 40%               | Normalized cash generation |
 
 ### DCF Implication
-- Model assumes **40% average payout**  
-- Conservative given capex needs  
-- Upside scenario:  
-  - Early project success  
-  - Faster WDIL synergy realization  
-  → Dividends could reach **40%+ by FY2028**
+Looking ahead, the DCF model assumes a 40% average payout ratio over the long term. This is conservative and leaves room for:
+- Funding growth capex and working capital.
+- Managing risk from macro volatility and interest rates.
+If the lithium and WDIL projects perform better than expected (on time, on budget, and with stronger returns), there is upside for dividends to move back towards 50%+ of earnings from FY2028 onwards.
+
+Finally, Walton is transitioning from a “high dividend, low reinvestment” phase to a “balanced reinvestment and dividend” phase. The long‑term success of this strategy depends heavily on execution of the major strategic projects and the stability of the macro environment.
+
+**Note:** All the data sources and references are given in a separate file under Data folder.
