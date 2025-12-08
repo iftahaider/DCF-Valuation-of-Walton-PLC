@@ -6,11 +6,12 @@
 
 **Note:** I followed a book called "**Financial Modeling and Valuation: A Practical Guide to Investment Banking and Private Equity**" by Paul Pignataro and **YouTube Channel:** [(Paul Pignataro)](https://youtube.com/@anextraining?si=y-K5Ga1ncVwaRtap)
 
+## Project Overview
+This repository contains a full equity valuation model of Walton Hi-Tech Industries PLC (DSE: WALTONHIL), built using a 10-year DCF framework, bottom-up operational forecasting, industry analysis, and WACC modeling specific to Bangladesh’s macro environment.
 
 ## Business Analysis: Walton Hi-Tech Industries PLC
 
-### Executive Summary
-Walton Hi-Tech Industries PLC is Bangladesh's leading vertically integrated manufacturer of consumer electronics and appliances. The company has established a dominant market position, holding over 65% share in the refrigerator market and approximately 40% in air conditioners, fueled by a strategic vertical integration model that allows it to manufacture 80% of components in-house. This analysis concludes that Walton's primary investment thesis rests on three pillars: (1) sustainable cost advantages from vertical integration, (2) significant growth potential from export market expansion and new product categories, and (3) strong alignment with Bangladesh's "Made in Bangladesh" policy tailwinds. The primary risks include intense competition from international brands, macroeconomic pressures on consumer spending, and execution risks associated with new technological ventures.
+Walton Hi-Tech Industries PLC is Bangladesh's leading vertically integrated manufacturer of consumer electronics and appliances. The company has established a dominant market position, holding over 65% share in the refrigerator market and approximately 40% in air conditioners, fueled by a strategic vertical integration model that allows it to manufacture 80% of components in-house. 
 
 ### Business Model & Revenue Streams
 
