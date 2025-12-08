@@ -240,6 +240,15 @@ I acknowledge that this model has some limitations. These are as follows:
 - Finally, Walton reported its Cash Flow Statement using the Direct Method. But I followed the converted indirect version of the Cash Flow Statement from StockAnalysis. There may be some mistakes due to StockAnalysis's classification issue. 
 
 
+## 💻 Files
+Please refer to the following folders to access all components of the Walton PLC DCF Valuation project.
+- `Analysis/` – Contains the full company analysis, macroeconomic review, risk factors, projected financials, and valuation breakdowns.
+- `Charts/` – Visual figures and charts used in the valuation report
+- `DCF_Model.xlsx` – Full Excel-based valuation model
+- `Data/` – Raw and processed financial data used in the analysis and reference sources
+- `WACC_Analysis/` – Contains WACC schedule, cost of equity calculations, cost of debt reconciliation, and capital structure workings
+- `README.md` – Overview of the project, methodology, structure, and navigation guide for the repository
+
 ## Disclaimer
 
 This project is for **educational and research purposes only** and does not constitute investment advice. Always conduct independent research and consider your risk tolerance before making investment decisions.
