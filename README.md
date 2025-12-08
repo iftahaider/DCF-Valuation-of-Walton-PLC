@@ -234,11 +234,12 @@ I acknowledge that this model has some limitations. These are as follows:
 - Revenue, margin, capex, and working capital forecasts are based on assumptions rather than management guidance.
 - The model is extremely sensitive to small changes in WACC and terminal growth, causing large swings in fair value.
 - Beta is estimated from DSEX, which is a shallow and sometimes illiquid market. Regression-based beta for emerging markets may not reflect the true systematic risk of the company.
-- For calculating depreciation & amortization, I grouped PPE, Intangible Assets, and Right-of-Use Assets as operating assets. Here, a detailed depreciation schedule could be prepared.
+- For calculating depreciation & amortization, I grouped PPE, Intangible Assets, and Right-of-Use Assets as operating assets. However, Paul Pignataro showed a more detailed process for creating depreciation and working capital schedules. But due to a lack of data and expertise, I couldn't make such detailed ones. 
 - I assumed Walton would successfully conduct its merger of WDIL and undertake the lithium battery project. Here, I have made some simplistic assumptions. A thorough M&A and Project analysis would lead to more accurate results.
 - Forecast capex includes a large lithium battery expansion whose returns are unpredictable.
-- The debt schedules have been developed following Paul Pignataro's guidance. This could have been created more accurately.
-- Finally, Walton reported its Cash Flow Statement using the Direct Method. But I followed the converted indirect version of the Cash Flow Statement from StockAnalysis. There may be some mistakes due to StockAnalysis's classification issue. 
+- The debt schedule has been created following Paul Pignataro's guidance. However, this could have been designed more accurately.
+- Paul Pignataro showed two major methods for calculating the terminal value, including the Multiple method and the Perpetuity method. But for this project, I followed only the Perpetuity method.
+- Finally, Walton reported its Cash Flow Statement using the Direct Method. But I followed the converted indirect version of the Cash Flow Statement from StockAnalysis. So, there may be some mistakes due to StockAnalysis's classification issue. 
 
 
 ## 💻 Files
