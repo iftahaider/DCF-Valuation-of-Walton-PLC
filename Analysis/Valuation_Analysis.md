@@ -136,13 +136,13 @@ Key points:
 **Positive drivers:**
 
 1. **Earnings recovery:**  
-   EPS rises from **BDT 34.22 (2025A)** to **BDT 68.84 (2035E)**, driven by normalizing demand, cost discipline, and new segment contributions.
+   EPS rises from BDT 34.22 (2025A) to BDT 68.84 (2035E), driven by normalizing demand, cost discipline, and new segment contributions.
 
 2. **Revenue growth & diversification:**  
-   Revenue grows from **BDT 7,082 Cr (2025A)** to **BDT 12,610 Cr (2035E)** (CAGR ~6.1%). New businesses (WDIL IT products, lithium batteries, elevators, service parts) reduce dependence on refrigerators.
+   Revenue grows from BDT 7,082 Cr (2025A) to BDT 12,610 Cr (2035E) (CAGR ~6.1%). New businesses (WDIL IT products, lithium batteries, elevators, service parts) reduce dependence on refrigerators.
 
 3. **Margin stabilisation:**  
-   Gross margin remains around **36%**, while EBIT margin gradually improves from ~21% (2025A) to **26%** in terminal years, reflecting operating leverage and better product mix.
+   Gross margin remains around 36%, while EBIT margin gradually improves from ~21% (2025A) to 26% in terminal years, reflecting operating leverage and better product mix.
 
 4. **Improving liquidity:**  
    Current and quick ratios trend up, indicating tighter working‑capital management and lower refinancing risk.
@@ -152,7 +152,7 @@ Key points:
 
 **Key risks:**
 
-1. **Macro & FX risk:**  
+1. **Macro & FX risk:** 
    Elevated inflation, FX volatility and potential further devaluation of BDT can pressure margins and demand.
 
 2. **Execution risk (WDIL & lithium project):**  
@@ -168,4 +168,4 @@ Key points:
 
 **Conclusion:**
 
-At **BDT 376.60**, Walton appears **modestly undervalued** relative to the base‑case intrinsic value of **BDT 393.63**, but the upside is **not large enough** to classify the stock as a strong BUY. Given the balance between recovery potential and macro/execution risk, the valuation supports a **HOLD / MARKET PERFORM** recommendation. A more attractive **entry point** would be **below BDT 350–360**, while **profit‑taking** becomes more compelling above **BDT 450–470**, assuming unchanged fundamentals.
+At BDT 376.60, Walton appears modestly undervalued relative to the base‑case intrinsic value of BDT 393.63, but the upside is not large enough to classify the stock as a strong BUY. Given the balance between recovery potential and macro/execution risk, the valuation supports a HOLD / MARKET PERFORM recommendation. A more attractive entry point would be below BDT 350–360, while profit‑taking becomes more compelling above BDT 450–470, assuming unchanged fundamentals.
