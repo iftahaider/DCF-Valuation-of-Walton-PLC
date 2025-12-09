@@ -93,9 +93,7 @@ Shares outstanding: **30.29 crore**
 
 DCF Fair Value per Share = 11,924.30/ 30.29 = BDT 393.63
 
-**The whole DCF Model:**
-
-![DCF](Charts/DCF_Chart.png)
+**Note:** The whole DCF Valuation calculation can be found in the DCF_Model.xlsx folder.
 
 ---
 
@@ -104,7 +102,7 @@ DCF Fair Value per Share = 11,924.30/ 30.29 = BDT 393.63
 | Metric                            | Value (BDT) |
 |-----------------------------------|------------:|
 | DCF Fair Value per Share          | **393.63**  |
-| Current Market Price (Dec 2025)   | **376.60**  |
+| Current Market Price (3rd Dec 2025)   | **376.60**  |
 | Implied Discount to Fair Value    | **≈ 4.5%**  |
 | 52‑Week High                      | 750.00      |
 | 52‑Week Low                       | 373.40      |
