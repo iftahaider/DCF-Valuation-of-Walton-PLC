@@ -136,7 +136,7 @@ Because 27.83% of EV is terminal, small changes in long‑run margins, WACC, or 
 
 > This heatmap demonstrates how Walton’s intrinsic value per share changes under alternative combinations of WACC and terminal growth rates. Each cell reports the implied fair value, with warmer colours indicating lower values and cooler colours higher values. The blue‑outlined cell marks the base‑case assumption set. The grid visually communicates valuation risk, showing both downside scenarios and upside potential if risk perceptions or growth outlook improve.
 
-**Note:** One chart has been created using Python Code with the guidance of Google Gemini. 
+**Note:** Two charts have been created using Python Code with the guidance of Google Gemini. 
 
 ---
 
