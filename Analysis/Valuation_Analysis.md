@@ -1,215 +1,173 @@
-# KEY METRICS FOR DCF VALUATION FRAMEWORK
+## Valuation Summary & Overall Valuation Analysis
 
-## Historical Financial Metrics Summary (FY2021–FY2025)
+Walton Hi‑Tech Industries PLC is valued at **BDT 393.63 per share** using a discounted cash flow (DCF) approach, versus a current market price of **BDT 376.60**. The stock trades at a modest **4.52% discount** to intrinsic value, implying **limited upside and a balanced risk–reward profile**. The valuation is supported by an earnings recovery story, new growth drivers (WDIL merger, lithium‑ion battery project), and improving liquidity, but constrained by macro risks, execution uncertainty, and a high cost of capital.
 
-### Consolidated Financial Performance
-
-| Metric                   | FY2021 | FY2022 | FY2023 | FY2024 | FY2025     |
-|--------------------------|--------|--------|--------|--------|------------|
-| Revenue (৳ Crore)        | 6,995  | 8,168  | 6,836  | 7,512  | 7,082      |
-| EBITDA (Est., ৳ Crore)   | 1,900  | 2,100  | 1,200  | 1,850  | 1,700      |
-| EBIT (৳ Crore)           | 1,700  | 1,850  | 900    | 1,350  | 1,200      |
-| Net Profit (৳ Crore)     | 1,548  | 1,378  | 785    | 1,357  | 1,036.62   |
-| EPS (৳)                  | 51.31  | 45.61  | 25.95  | 44.78  | 34.22      |
-| Dividend Per Share (৳)   | ~20.5  | ~16.0  | ~7.8   | ~15.7  | ~20.4      |
-| Dividend Yield (at ৳376) | 5.4%   | 4.3%   | 2.1%   | 4.2%   | 5.4%       |
-
-### Profitability Trend (Margin Analysis)
-
-| Margin             | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
-|--------------------|--------|--------|--------|--------|--------|
-| Gross Margin       | 35.5%  | 32.5%  | 30.2%  | 27.3%  | 25.8%  |
-| Operating Margin   | 31.0%  | 28.0%  | 23.1%  | 23.8%  | 22.7%  |
-| EBITDA Margin      | 27.2%  | 25.7%  | 17.5%  | 24.6%  | 24.0%  |
-| Net Margin         | 22.1%  | 16.9%  | 11.5%  | 18.1%  | 14.6%  |
-
-### Key Observations
-- Gross margin structural decline: **35.5% → 25.8%**, a **970 bps drop**
-- Operating leverage lost: revenue –5.7% but net profit –24%
-- Net margin compressed from **22.1% → 14.6%**
+**Overall stance: HOLD / MARKET PERFORM**
 
 ---
 
-## Key DCF Input Parameters (December 2025 Update)
+### Valuation Methodology & Key Assumptions
 
-### Income Statement Drivers & Forward Projections
+#### DCF Framework
 
-| Parameter                | FY2025 Actual | FY2026E        | FY2027E+      | Rationale |
-|--------------------------|----------------|------------------|----------------|-----------|
-| Revenue Growth           | –5.7%          | +10–12%          | +8–9%          | Q1 FY2026 recovery (+19.4%) |
-| Gross Profit Margin      | 25.8%          | 26.0–26.5%       | 26.5–27.0%     | Input cost moderation |
-| Operating Expense Ratio  | 14.5% of sales | 14.0–14.5%       | 14.0%          | Operating leverage |
-| EBITDA Margin            | 24.0%          | 24.2–24.5%       | 24.7–25.2%     | Excluding forex losses |
-| Depreciation & Amort.    | 2.5% of sales  | 2.5%             | 2.5–3.0%       | Lithium project capex |
-| Tax Rate                 | 10.5%          | 11.0–11.5%       | 22.5%          | Post–Hi-Tech Park 2027 |
-| Finance Costs (% sales)  | 6.33%          | 6.0–6.5%         | 5.5–6.0%       | Rate stabilization |
+- Valuation method: **Unlevered Free Cash Flow to Firm (FCFF)**
+- Forecast horizon: **10 years** (2026E–2035E)
+- Terminal value: **Gordon Growth model**
+- Currency: **BDT Crore**
 
----
+**Core DCF parameters:**
 
-### Balance Sheet & Cash Flow Metrics
+| Parameter                     | Value          | Comment                                                        |
+|-------------------------------|----------------|----------------------------------------------------------------|
+| WACC                          | **16.71%**     | High due to Bangladesh country and equity risk                 |
+| Terminal growth rate (g)      | **4.00%**      | Below long‑run nominal GDP; conservative                       |
+| Forecast period               | 10 years       | Captures WDIL and battery project ramp‑up                      |
+| Valuation date                | FY2025A base   | Last actual financials                                         |
 
-| Item                         | FY2025 Actual | FY2026E+       | Notes |
-|------------------------------|----------------|----------------|-------|
-| Current Ratio                | 1.96x          | 1.80–2.00x     | Liquidity pressure |
-| Debt-to-Equity Ratio         | 22.0%          | 22–25%         | Lithium financing |
-| Working Capital (% of sales) | 8–10%          | 8–9%           | Optimization expected |
-| Capex (% of revenue)         | 3.5–4.0%       | 4.5–5.0%       | Lithium project peak |
-| Cash Conversion Cycle        | 30–40 days     | 28–35 days     | WC tightening |
+#### Cost of Capital (WACC) Inputs
 
----
+**Risk‑free rate adjustment (Damodaran approach):**
 
-### Forward Valuation Parameters (December 2025)
+- Bangladesh 10Y Government Bond: **10.42%**
+- Less: Country default spread: **8.14%**
+- **Adjusted risk‑free rate (Rf)**: **2.28%**
 
-| Parameter             | Used in DCF | Basis                                           | Sensitivity |
-|-----------------------|-------------|--------------------------------------------------|-------------|
-| Risk-Free Rate (Rf)   | 2.28%       | Global Aaa rates[web:98]                         | ±0.5%       |
-| Equity Risk Premium    | 12.35%      | BD ERP (Damodaran July 2025)[web:98]             | ±1–2%       |
-| Beta (unlevered)       | 1.00        | Sector typical                                   | ±0.2        |
-| Beta (levered)         | 1.30        | 5-year monthly (Blume adj.)                      | ±0.1–0.2    |
-| Cost of Equity (Ke)    | 18.29%      | 2.28% + 1.30×12.35%                              | ±1–2%       |
-| Cost of Debt (Kd)      | 10.52%      | Actual debt schedule[file:97]                    | ±0.5–1%     |
-| Tax Rate               | 22.5%       | Post-exemption blended                           | ±2–3%       |
-| WACC                   | 16.71%      | Blended formula                                  | ±1–1.5%     |
-| Terminal Growth (g)    | 4.0%        | LT GDP growth                                    | ±0.5–1%     |
+**Cost of Equity (CAPM):**
 
----
+- Adjusted Rf: **2.28%**
+- Beta (5‑year regression vs DSEX): **1.30**
+- Equity Risk Premium (Bangladesh): **12.35%**
+- **Cost of Equity** = 2.28% + 1.30 × 12.35% = **18.29%**
 
-## Forward Projections — Conservative Base Case (FY2026E–FY2035E)
+**Cost of Debt:**
 
-### Revenue Projections
+- Pre‑tax cost of debt: **11.92%** (10.42% gov bond + 1.50% spread)
+- Effective tax rate (long‑run): **22.50%**
+- **After‑tax cost of debt** = 11.92% × (1 – 0.225) = **9.24%**
 
-| Year         | Growth Rate | Projected Revenue (৳ Cr) | Assumptions |
-|--------------|-------------|---------------------------|-------------|
-| FY2025       | –5.7%       | 7,082                     | Political disruption |
-| FY2026E      | +11%        | 7,860                     | Q1 FY2026 +19.4% |
-| FY2027E      | +9%         | 8,568                     | WDIL merger contribution |
-| FY2028E      | +8%         | 9,253                     | Lithium ramp |
-| FY2029E      | +7%         | 9,900                     | Organic growth |
-| FY2030E      | +6%         | 10,494                    | Mature phase |
-| FY2031E      | +5%         | 11,019                    | Terminal transition |
-| FY2032E      | +5%         | 11,570                    | — |
-| FY2033E      | +5%         | 12,148                    | — |
-| FY2034E      | +5%         | 12,755                    | — |
-| FY2035E      | +4%         | 13,265                    | Terminal |
+**Capital Structure (2025A, market-based):**
 
-### Rationale Summary
-- FY2026 driven by recovery momentum  
-- FY2027–28 boosted by WDIL + lithium  
-- Post–FY2030 stabilizes to GDP-like growth  
+| Component | Value (BDT Cr) | Weight |
+|----------|----------------|--------|
+| Equity   | 12,605.8        | 82.52%  |
+| Debt     |  2,669.7         | 17.48%  |
+
+**WACC:**
+
+WACC = 18.29 * 82.52 + 9.24 * 17.48 = 16.71
 
 ---
 
-## Key Assumptions for DCF Terminal Value & Sensitivity
+### FCFF Projection & Enterprise Value
 
-### Terminal Year Assumptions (Post FY2035)
+#### FCFF Summary (BDT Crore)
 
-| Assumption                 | Base Case | Conservative | Optimistic |
-|----------------------------|-----------|--------------|------------|
-| Stable Growth Rate (g)     | 4.0%      | 3.0–3.5%     | 4.5–5.0%   |
-| Terminal EBITDA Margin     | 25.2%     | 24.0%        | 26.5%      |
-| Terminal Operating Margin  | 15.3%     | 14.0%        | 16.5%      |
-| Terminal Capex (% revenue) | 4.0%      | 3.5%         | 4.5%       |
-| Terminal WC (% sales)      | 8–9%      | 9–10%        | 7–8%       |
-| Terminal Tax Rate          | 22.5%     | 25%          | 20%        |
-| Terminal WACC              | 16.71%    | 17.5–18%     | 15.5–16%   |
-| Terminal Value % of EV     | 34.4%     | 40%+         | 30%        |
+| Year     | 2026E  | 2027E  | 2028E  | 2029E  | 2030E  | 2031E  | 2032E  | 2033E  | 2034E  | 2035E  |
+|----------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+| EBIT     | 1,812  | 2,151  | 2,359  | 2,500  | 2,640  | 2,863  | 2,972  | 3,081  | 3,178  | 3,279  |
+| D&A      |   250  |   264  |   279  |   294  |   310  |   327  |   344  |   362  |   381  |   399  |
+| CapEx    |   707  |   712  |   754  |   792  |   830  |   866  |   899  |   932  |   961  |   991  |
+| ΔWC      |   161  | (1,159)|  (417) |  (380) |  (374) |  (367) |  (325) |  (322) |  (289) |  (297) |
+| Taxes    |     0  |     0  |     0  |   169  |   178  |   193  |   669  |   693  |   715  |   738  |
+| **FCFF** | **1,194**|**2,862**|**2,301**|**2,213**|**2,316**|**2,498**|**2,074**|**2,140**|**2,172**|**2,246**|
 
+> Note: Tax rate is 0% through 2028 under hi‑tech incentives, then gradually normalizes.
 
-# DCF VALUATION SUMMARY & SENSITIVITY OUTPUTS
+#### DCF Value Build‑Up (BDT Crore)
 
-## Base Case Valuation Results
+- **PV of FCFF (Years 1–10)**: **10,168**
+- **PV of Terminal Value**: **3,920**
 
-### DCF Valuation Output (December 3, 2025)
+Enterprise Value (EV)} = 10,168 + 3,920 = 14087
 
-| Metric                         | Base Case              |
-|--------------------------------|------------------------|
-| PV of FCFF (Years 1–10)        | ৳7,117.15 Crore        |
-| Terminal Value (Year 10)       | ৳17,542.30 Crore       |
-| PV of Terminal Value           | ৳3,741.72 Crore        |
-| **Enterprise Value**           | **৳10,858.87 Crore**   |
-| Less: Total Debt               | (৳2,669.68 Crore)      |
-| Plus: Cash & Cash Equivalents  | ৳506.55 Crore          |
-| **Equity Value**               | **৳8,695.73 Crore**    |
-| Shares Outstanding             | 30.29 Crores           |
-| **Fair Value Per Share**       | **৳287.06**            |
-| Current Market Price           | ৳376.00                |
-| Upside/(Downside)              | (23.6%) — OVERVALUED   |
+**Capital adjustments:**
 
----
+| Item              | Value (BDT Cr) |
+|-------------------|---------------:|
+| Enterprise Value  | 14,087.44         |
+| Less: Debt        | (2,669.68)     |
+| Add: Cash         |    506.55      |
+| **Equity Value**  | **11,924.30**   |
 
-## Sensitivity Analysis: WACC vs Terminal Growth Rate
+Shares outstanding: **30.29 crore**
 
-### Per-Share Fair Value Sensitivity Table
+DCF Fair Value per Share = 11,924.30/ 30.29 = BDT 393.63
 
-| g \ WACC | 14.00% | 15.00% | 16.71% | 17.00% | 18.00% |
-|----------|--------|--------|--------|--------|--------|
-| 2.0%     | ৳354.70 | ৳318.41 | ৳268.21 | ৳260.82 | ৳237.62 |
-| 3.0%     | ৳371.19 | ৳331.31 | ৳276.94 | ৳269.02 | ৳244.27 |
-| 4.0% (Base) | ৳390.97 | ৳346.55 | ৳287.06 | ৳278.48 | ৳251.86 |
-| 5.0%     | ৳415.15 | ৳364.83 | ৳298.89 | ৳289.52 | ৳260.63 |
+**The whole DCF Model:**
 
-### Key Insights
-
-- Base Case (WACC 16.71%, g 4.0%): **৳287.06 per share** (23.6% downside to market)  
-- Market-Implied Scenario: Current price of **৳376** suggests market assumes either **WACC ~15%** or **g ~4.5–5%**, or both  
-- Valuation Range: **৳237–৳416** depending on WACC/g assumptions  
-- Sensitivity: WACC is the most impactful variable; **1% change in WACC → 30–50 BDT per share** move  
+![DCF](Charts/DCF_Chart.png)
 
 ---
 
-## Scenario Analysis: Bear / Base / Bull Cases
+### 4. Market Comparison
 
-### Three-Case Scenario Valuation
+| Metric                            | Value (BDT) |
+|-----------------------------------|------------:|
+| DCF Fair Value per Share          | **393.63**  |
+| Current Market Price (Dec 2025)   | **376.60**  |
+| Implied Discount to Fair Value    | **≈ 4.5%**  |
+| 52‑Week High                      | 750.00      |
+| 52‑Week Low                       | 373.40      |
 
-| Scenario | WACC   | Terminal g | Fair Value/Share | vs. Market (৳376)      | Probability |
-|----------|--------|------------|------------------|------------------------|-------------|
-| BEAR     | 18.5%  | 2.5%       | ৳195–220         | –48% (Overvalued)      | 20%         |
-| BASE     | 16.71% | 4.0%       | ৳287             | –24% (Overvalued)      | 50%         |
-| BULL     | 15.0%  | 5.0%       | ৳410–420         | +9% (Undervalued)      | 30%         |
-
----
-
-### Scenario Narratives
-
-#### BEAR CASE: Macroeconomic Headwinds & Execution Challenges
-
-**Assumptions:**
-- EBIT growth slows to **4% CAGR** (vs. base 8%)  
-- Operating margins compress to **12.0%** (vs. base 14.8–15.3%)  
-- Lithium project faces delays; minimal contribution before **FY2030**  
-- WDIL merger approval delayed; synergies don't materialize  
-- Forex losses persist; rupee further depreciates  
-- WACC rises to **18.5%** due to macro uncertainty premium  
-
-**Outcome:**
-- Fair Value: **৳195–220 per share**  
-- Upside/Downside: **–48% vs. current market price**  
+**Interpretation:** The stock trades **slightly below** intrinsic value but without a deep margin of safety. Price is near the lower end of its 52‑week range, reflecting macro and sector concerns. Valuation is **not compellingly cheap**, but also does not justify a clear SELL.
 
 ---
 
-#### BASE CASE: Moderate Recovery, Execution On Track
+### Sensitivity Analysis (WACC vs Terminal Growth)
 
-**Assumptions:**
-- As outlined in DCF sections above (revenue, margin, and capex base case)
+**Fair Value per Share (BDT)**
 
-**Outcome:**
-- Fair Value: **৳287.06 per share**  
-- Upside/Downside: **–24% vs. current market price**  
+| g \ WACC | 14.0% | 15.0% | 16.71% | 17.0% | 18.0% |
+|----------|------:|------:|-------:|------:|------:|
+| **2.0%** | 471.81| 431.00| 373.89 |365.41 |338.64 |
+| **3.0%** | 489.08| 444.51| 383.04 |374.00 |345.60 |
+| **4.0%** | 509.81| 460.47| **393.63** |383.92 |353.56 |
+| **5.0%** | 535.14| 479.63| 406.04 |395.48 |362.75 |
+
+Key points:
+
+- **Base case** (16.71% WACC, 4.0% g): **BDT 393.63**
+- **Upside scenarios** (lower WACC / higher g) can justify **BDT 450–535** per share.
+- **Downside scenarios** (higher WACC / lower g) cluster around **BDT 340–380**.
+- Current market price (**BDT 376.60**) lies slightly **below** the conservative base case.
 
 ---
 
-#### BULL CASE: Operational Excellence, Portfolio Diversification, Market Recovery
+### Key Value Drivers
 
-**Assumptions:**
-- Strong recovery: **EBIT growth 12% CAGR** through FY2030  
-- Margin expansion to **16.5%** (driven by scale and synergies)  
-- Lithium project succeeds; becomes significant contributor by **FY2028**  
-- WDIL merger completes smoothly; synergies flow by **FY2028** (5–8% cost reduction)  
-- Forex stabilizes; currency headwinds ease  
-- Consumer confidence robust; export growth sustained  
-- WACC declines to **15.0%** as macro uncertainty eases  
+**Positive drivers:**
 
-**Outcome:**
-- Fair Value: **৳410–420 per share**  
-- Upside/Downside: **+9% vs. current market price (near parity)**  
+1. **Earnings recovery:**  
+   EPS rises from **BDT 34.22 (2025A)** to **BDT 68.84 (2035E)**, driven by normalizing demand, cost discipline, and new segment contributions.
 
+2. **Revenue growth & diversification:**  
+   Revenue grows from **BDT 7,082 Cr (2025A)** to **BDT 12,610 Cr (2035E)** (CAGR ~6.1%). New businesses (WDIL IT products, lithium batteries, elevators, service parts) reduce dependence on refrigerators.
+
+3. **Margin stabilisation:**  
+   Gross margin remains around **36%**, while EBIT margin gradually improves from ~21% (2025A) to **26%** in terminal years, reflecting operating leverage and better product mix.
+
+4. **Improving liquidity:**  
+   Current and quick ratios trend up, indicating tighter working‑capital management and lower refinancing risk.
+
+5. **Tax incentives:**  
+   0% tax through FY2028 and partial exemption through FY2031 meaningfully support free cash flows in the early forecast years.
+
+**Key risks:**
+
+1. **Macro & FX risk:**  
+   Elevated inflation, FX volatility and potential further devaluation of BDT can pressure margins and demand.
+
+2. **Execution risk (WDIL & lithium project):**  
+   Integration delays, cost overruns, or slower adoption could dilute the expected value contribution from these initiatives.
+
+3. **Competitive intensity:**  
+   Strong competition from local and foreign brands in key categories (refrigerators, ACs, TVs) may limit pricing power.
+
+4. **High WACC:**  
+   A 16.71% discount rate materially suppresses valuation; any further increase in perceived risk would lower fair value.
+
+---
+
+**Conclusion:**
+
+At **BDT 376.60**, Walton appears **modestly undervalued** relative to the base‑case intrinsic value of **BDT 393.63**, but the upside is **not large enough** to classify the stock as a strong BUY. Given the balance between recovery potential and macro/execution risk, the valuation supports a **HOLD / MARKET PERFORM** recommendation. A more attractive **entry point** would be **below BDT 350–360**, while **profit‑taking** becomes more compelling above **BDT 450–470**, assuming unchanged fundamentals.
