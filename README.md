@@ -186,7 +186,7 @@ This analysis views Walton Hi‑Tech as approximately **fairly valued** with mod
 
 ### 🔸 1. Strategic Growth Initiatives & Revenue Recovery
 
-Bangladesh's consumer durables sector is experiencing strong demand recovery supported by rising middle-class consumption, rural electrification, and replacement cycles of aging appliances. Walton's strategic initiatives—WDIL merger and lithium battery project—provide structural growth drivers that support revenue expansion of 6.8% CAGR through FY2035. Q1 FY2026 growth of +19.4% validates recovery momentum despite FY2025 political disruption legacy.
+Bangladesh's consumer durables sector is experiencing strong demand recovery supported by rising middle-class consumption, rural electrification, and replacement cycles of aging appliances. Walton's strategic initiatives, such as the WDIL merger and the lithium battery project, provide structural growth drivers that support revenue expansion of 6.8% CAGR through FY2035. Q1 FY2026 growth of +19.4% validates recovery momentum despite FY2025 political disruption legacy.
 
 ### 🔸 2. Margin Expansion Assumption Requires Flawless Execution
 
