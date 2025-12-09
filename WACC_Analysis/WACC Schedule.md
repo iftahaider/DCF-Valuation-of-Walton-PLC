@@ -2,7 +2,7 @@
 
 | Component                          | Input / Assumption            | Notes                                                                 |
 |------------------------------------|-------------------------------|-----------------------------------------------------------------------|
-| Risk-Free Rate (Rf)               | 2.28%                        | Based on long-term Aaa sovereign yields (global proxy).              |
+| Risk-Free Rate (Rf)               | 2.28%                        | BD 10Y T-Bond(10.42%) - Country Default Risk(8.14%).              |
 | Equity Risk Premium (ERP)         | 12.35%                       | Country-adjusted ERP for Bangladesh (high perceived risk) - Aswath Damodaran.           |
 | Levered Equity Beta (β)           | 1.30                         | 5-year regression vs DSEX, Blume-adjusted; reflects business cyclicality. |
 | Cost of Equity (Re)               | 18.29%                       | Re = Rf + β × ERP = 2.28% + 1.30 × 12.35%.                           |
