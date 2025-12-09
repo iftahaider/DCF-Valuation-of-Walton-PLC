@@ -2,7 +2,7 @@
 
 Walton Hi‑Tech Industries PLC is valued at **BDT 393.63 per share** using a discounted cash flow (DCF) approach, versus a current market price of **BDT 376.60**. The stock trades at a modest **4.52% discount** to intrinsic value, implying **limited upside and a balanced risk–reward profile**. The valuation is supported by an earnings recovery story, new growth drivers (WDIL merger, lithium‑ion battery project), and improving liquidity, but constrained by macro risks, execution uncertainty, and a high cost of capital.
 
-**Overall stance: HOLD / MARKET PERFORM**
+**Recommendation: HOLD**
 
 ---
 
