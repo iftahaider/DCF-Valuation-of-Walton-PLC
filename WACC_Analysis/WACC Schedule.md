@@ -2,7 +2,7 @@
 
 | Component                          | Input / Assumption            | Notes                                                                 |
 |------------------------------------|-------------------------------|-----------------------------------------------------------------------|
-| Risk-Free Rate (Rf)               | 2.28%                        | BD 10Y T-Bond(10.42%) - Country Default Risk(8.14%).              |
+| Risk-Free Rate (Rf)               | 2.28%                        | Damodaran methodology to avoid double‑counting country risk in ERP              |
 | Equity Risk Premium (ERP)         | 12.35%                       | Country-adjusted ERP for Bangladesh (high perceived risk) - Aswath Damodaran.           |
 | Levered Equity Beta (β)           | 1.30                         | 5-year regression vs DSEX, Blume-adjusted; reflects business cyclicality. |
 | Cost of Equity (Re)               | 18.29%                       | Re = Rf + β × ERP = 2.28% + 1.30 × 12.35%.                           |
@@ -17,3 +17,8 @@
 | **WACC**                          | **16.71%**                   | = (E/V × Re) + (D/V × Rd × (1–T)).                                   |
 
 > This WACC is used as the base discount rate in the DCF model, and small changes in ERP, beta, or capital structure can materially change valuation outcomes.
+
+
+### Excel WACC Schedule:
+![WACC Schedule](Charts/WACC_Schedule.png)
+
