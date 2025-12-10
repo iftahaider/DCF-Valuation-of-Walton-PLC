@@ -38,7 +38,7 @@ Walton operates 22 production facilities manufacturing key components in-house:
 2. **Lithium Battery Project:** 113.66 Crore capex; expected 8–10% EBIT contribution by FY2030.  
 3. **Market Expansion:** Regional exports and premium product positioning.
 
-#### Key Outputs
+### Key Outputs
 
 | Metric | Value |
 |--------|-------|
@@ -49,7 +49,9 @@ Walton operates 22 production facilities manufacturing key components in-house:
 | **WACC** | 16.71% |
 | **Terminal Growth** | 4.0% |
 
-#### Investment Thesis
+### Investment Thesis
+
+**Recommendation: HOLD 🧿**
 
 This analysis views Walton Hi‑Tech as approximately fairly valued with modest upside at the current market price of BDT 376.60 versus a DCF‑implied fair value of BDT 393.63. The stock offers a balanced risk–reward profile. The company benefits from earnings recovery, new growth drivers (WDIL IT products, lithium-ion batteries), and improving liquidity, but faces macro risks and competitive pressures. A **HOLD stance** is recommended pending de-risking of major strategic initiatives.
 
@@ -174,7 +176,7 @@ This analysis views Walton Hi‑Tech as approximately fairly valued with modest 
 | DCF Fair Value per Share | BDT 393.63 |
 | Current Market Price | BDT 376.60 |
 | Implied Discount to Fair Value | 4.52% |
-| Recommendation | **HOLD** |
+| Recommendation | **HOLD** 🧿 |
 
 ### Positive Drivers
 
@@ -292,7 +294,7 @@ I acknowledge that this model has some limitations. These are as follows:
 
 - **Microsoft Excel:** Financial modeling & DCF
 - **Python / Google Colab:** Chart generation
-- **Websites:** LankaBangla Financial portal, Dhaka Stock Exchange (DSE), StockAnalysis
+- **Websites:** LankaBangla Financial portal, Dhaka Stock Exchange (DSE), StockAnalysis, ChatGPT & Perplexity (for research, educational, and design purposes)
 - **GitHub:** Project documentation & version control
 
 **Note:** I also followed a book called "**Financial Modeling and Valuation: A Practical Guide to Investment Banking and Private Equity**" by Paul Pignataro and **YouTube Channel:** [(Paul Pignataro)](https://youtube.com/@anextraining?si=y-K5Ga1ncVwaRtap)
