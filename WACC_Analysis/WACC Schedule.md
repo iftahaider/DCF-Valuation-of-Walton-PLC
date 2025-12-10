@@ -18,7 +18,3 @@
 
 > This WACC is used as the base discount rate in the DCF model, and small changes in ERP, beta, or capital structure can materially change valuation outcomes.
 
-
-### Excel WACC Schedule:
-![WACC Schedule](Charts/WACC_Schedule.png)
-
