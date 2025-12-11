@@ -63,25 +63,25 @@ This analysis views Walton Hi‑Tech as approximately fairly valued with modest 
 
 ![Revenue Forecast](Charts/Revenue_Forecast.png)
 
-> This shows the revenue trend from 2021A to 2035E, including VAT adjustments. Revenue crashed 18.7% in 2023A due to FX crisis; recovers from 2024A.
+> This figure shows how different product segments are expected to grow each year from 2021 to 2035. Some years have very high growth because new products were introduced, while others show declines due to market slowdowns. From 2026 onward, growth is forecasted to become more stable, mostly between 3% and 10%. Overall, year-on-year revenue growth is expected to remain steady over time.
 
-### 2. Historical & Projected Income Statement
+### 2. Projected Income Statement
 
 ![Income Statement Model](Charts/Income_Statement.png)
 
-> This shows forecasted revenue from 2021A to 2035E, COGS, gross profit, and operating expense modeling, EBITDA, EBIT, tax, and net profit progression and EPS calculation and growth trend. EBIT margin temporarily compressed to 20.9% (2025A); forecast to recover to 26% by 2032E. Net margin improves from 14.6% (2025A) to 16–19% (forecast), supported by VAT relief and operational leverage.
+> This model shows how the company’s sales and profits are expected to grow from 2021 to 2035. It shows revenue, cost of goods sold, gross profit, operating expenses, EBITDA, EBIT, taxes, and net profit.EBIT margin drops to about 20.9% in 2025, but is expected to recover and reach 26% by 2032. Net profit margin also improves from 14.6% in 2025 to 16–19% in later years. This improvement mainly comes from better cost control as the company grows.
 
-### 3. Balance Sheet & Operating Assets Schedule
+### 3. Projected Balance Sheet
 
 ![Balance Sheet Model](Charts/Balance_Sheet.png)
 
-> This shows current and non-current assets (cash, receivables, inventory, fixed assets), current and non-current liabilities (payables, debt, deferred tax), Shareholders' equity bridge (retained earnings, revaluation reserves) and operating assets net schedule tied to capex and depreciation. Current ratio rises from 1.55 (2022) to 2.50+ (2025A), indicating stronger working capital management. Debt remains static; leverage ratios improve as EBITDA recovers. Cash balance grows from BDT 507 Cr (2025A) to BDT 2,599 Cr (2035E), supporting dividend sustainability.
+> This model shows what the company owns (cash, inventory, receivables, fixed assets) and what it owes (payables, debt, and other liabilities). It also outlines equity items like retained earnings. The company’s current ratio rises from 1.55 in 2022 to over 2.50 in 2025, meaning it becomes much better at managing short-term working capital. Debt stays the same, but leverage improves because profits and EBITDA increase. Cash grows from BDT 507 crore in 2025 to BDT 2,599 crore by 2035, which shows strong financial health and supports long-term dividend payments. 
 
-### 4. Cash Flow Statement
+### 4. Projected Cash Flow Statement
 
 ![Cash Flow Statement](Charts/Cashflow_Statement.png)
 
-> This shows operating, investing, and financing cash flows, free cash flow generation (before financing activities), sources and uses of cash and net cash position bridge. Operating CF moves from BDT 1,763 Cr (2025A) to over BDT 2,100 Cr (forecast), showing improving operational cash generation. Capex commitment thorugh consistent investment at 7.86% of revenue, including BDT 114 Cr one-time lithium project capex in 2026. A disciplined dividend policy, 40% payout ratio on earnings, provides growth capital while returning value to shareholders.
+> This model covers cash from operations, investments, and financing activities. It also shows how the company’s cash balance changes over time. Operating cash flow rises from BDT 1,763 crore in 2025 to more than BDT 2,100 crore in future years, meaning the business is generating more cash from its core operations. Capex remains steady at about 7.86% of revenue, with one major investment—BDT 114 crore for a lithium project in 2026. The company follows a disciplined dividend policy, paying out 40% of earnings, which allows it to reward shareholders while still retaining enough cash for future growth.
 
 ---
 
@@ -96,13 +96,13 @@ This analysis views Walton Hi‑Tech as approximately fairly valued with modest 
 
 ![Debt Schedule](Charts/Debt_Schedule.png)
 
-> This shows total debt composition (short-term and long-term) and interest expense calculation. Here, a minimum cash cushion of BDT 50 crores is assumed. Also, the other finance costs include excise Duty, bank charges + FX loss. The interest income rate is assumed to be usually 1–3% of cash. The main issue I faced here was a circular reference error. Paul Pignataro's book and YouTube videos have helped me fix this issue. 
+> This shows total debt composition (short-term and long-term) and interest expense calculation. Here, a minimum cash cushion of BDT 50 crores is assumed. Also, other finance costs include excise Duty, bank charges + FX loss. Interest income rate is assumed to be usually 1–3% of cash. The main issue I faced here was a circular reference error. Paul Pignataro's book and his YouTube videos have helped me fix this issue. 
 
 ### 3. DCF Value Build-Up
 
 ![DCF Value Build-Up](Charts/DCF_Chart.png)
 
-> This shows the calculation of FCFF from EBIT, the present value of a 10-year explicit forecast FCFF, the terminal value calculation (Gordon Growth model), the enterprise value composition, the bridge to equity value (debt and cash adjustments), and the per-share valuation.
+> This shows the calculation of FCFF from EBIT, the present value of a 10-year explicit forecast FCFF, the terminal value calculation (Gordon Growth model), the enterprise value composition, the bridge to equity value (debt and cash adjustments), and the per-share valuation. We found an estimated per-share value of BDT 393.63.  
 
 ---
 
@@ -131,13 +131,6 @@ This analysis views Walton Hi‑Tech as approximately fairly valued with modest 
 ![Profitability Margins](Charts/Profitability_Margins.png)
 
 > This chart shows the evolution of gross margin, EBIT margin, and net margin across historical and forecast years. Gross margin stabilises around 36%, while EBIT and net margins dip during the stress period and gradually recover. Over the forecast horizon, margins expand as operating efficiency improves, VAT/tax incentives materialise, and higher‑margin products and services contribute more to overall profitability.
-
-#### Key Metrics
-
-- **Gross Margin:** 36.05% (2025) → 40% (2035E)  
-- **EBIT Margin:** 20.93% → 26.00% by FY2031+  
-- **Net Margin:** 14.64% → 16.54% by 2035E  
-- **Tax:** Hi-Tech Park exemption ends May 2027; effective tax normalizes to ~22.5%.
 
 ### Chart 5: Historical Liquidity Ratios 
 
@@ -180,19 +173,18 @@ This analysis views Walton Hi‑Tech as approximately fairly valued with modest 
 
 ### Positive Drivers
 
-- **Earnings recovery:** EPS to double from BDT 34 to BDT 69 over 10 years  
-- **Revenue diversification:** New segments (WDIL IT, lithium batteries) reduce concentration risk  
-- **Margin improvement:** EBIT margin recovers to 26%, supported by operating leverage  
-- **Improving liquidity:** Current ratio strengthens above 2.5x  
-- **Tax incentives:** 0% tax through 2028 provides cash-flow boost  
+- **Earnings recovery:** The company’s earnings are expected to recover strongly. EPS could rise from BDT 34.22 in 2025 to BDT 68.84 by 2035, which means profits per share may double over 10 years. This steady growth comes from higher revenue, better margins, and new business lines, which supports the long-term DCF assumptions.  
+- **Revenue diversification:** Revenue also becomes more diversified. Total sales may grow from BDT 7,083 crore to BDT 12,610 crore by 2035. The core refrigerator business grows slowly, but new areas like IT products, lithium batteries, elevators, and service parts grow faster. These newer segments reduce dependency on one product and open new growth opportunities.  
+- **Margin improvement:** Profit margins are expected to improve. EBIT margin could rise from 20.9% to 26%, helped by VAT benefits, cost efficiency, and a better product mix. Higher-margin items—like service parts and batteries—boost earnings further. EBITDA margins stay strong, supporting healthy cash flow.  
+- **Improving liquidity:** The company’s financial position also strengthens. The current ratio improves, debt levels stay stable, and cash flow rises. With better liquidity and steady free cash flow, the company can continue paying dividends comfortably.  
+- **Tax incentives:** Tax benefits provide another advantage. The Hi-Tech Park policy allows a 0% tax rate until 2028, which greatly boosts cash flow. Even when tax increases gradually afterward, it remains in line with policy expectations.  
 
 ### Risk Factors
 
-- **Macro uncertainty:** FX volatility, inflation, political instability  
-- **Execution risk:** WDIL merger integration and lithium-battery project success uncertain  
-- **Competitive pressure:** Strong local and foreign competition in key categories  
-- **High WACC:** 16.71% reflects Bangladesh risk premium; any increase lowers valuation  
-- **Limited margin of safety:** At only 4.5% upside, stock offers little cushion  
+- **Macro uncertainty:** Bangladesh’s economic environment remains shaky. Inflation is high, foreign reserves have fallen, and the Taka has weakened a lot. This raises import costs and puts pressure on profit margins. Political uncertainty also adds risk to demand and business operations.  
+- **Execution risk:** There are execution risks too. The merger with WDIL is still waiting for court approval. Any delay would slow down the expected revenue growth and cost synergies. Integration costs could also be higher than estimated. The lithium battery project carries some uncertainty. It assumes strong sales from 2026 onward, but market adoption, competition, or technology issues could affect performance.
+- **Competitive pressure:** Competition is another risk. The refrigerator market is already saturated, and foreign brands are increasing pressure in AC and TV categories. This could limit growth and squeeze pricing.  
+- **High WACC:** Finally, a high WACC of 16.71% reduces the valuation. If macroeconomic conditions worsen, WACC could rise further and lower the company’s fair value. However, if risk levels improve, WACC could come down, lifting valuation results.  
 
 ### Investment Action Items
 
@@ -259,10 +251,7 @@ This analysis views Walton Hi‑Tech as approximately fairly valued with modest 
 #### Terminal Assumptions
 
 - **Terminal growth rate (g):** 4.0%
-  - Below Bangladesh long-run nominal GDP growth (~5–6%)
-  - Ensures company does not outgrow economy in perpetuity
-  - Conservative estimate given mature operating model
-
+It is below Bangladesh long-run nominal GDP growth (5–6%). This also ensures company does not outgrow economy in perpetuity. 
 
 ## 📌 Limitations of this Model
 I acknowledge that this model has some limitations. These are as follows:
@@ -322,12 +311,12 @@ Please refer to the following folders to access all components of the Walton PLC
 - `README.md` – Overview of the project, methodology, structure, and navigation guide for the repository
 
 
-## 📄 Disclaimer
+## Disclaimer
 
-This analysis is for **educational and research purposes only** and does not constitute investment advice. The valuation reflects assumptions and data available as of the publication date. **Actual results may materially differ** from projections due to unforeseen events, macro changes, or company-specific developments. Always conduct your own due diligence and consult a financial advisor before making investment decisions.
+This analysis is for **educational and practice purposes only** and does not constitute investment advice. The valuation reflects assumptions and data available as of the publication date. **Actual results may materially differ** from projections due to unforeseen events, macro changes, or company-specific developments. Always conduct your own due diligence and consult a financial advisor before making investment decisions.
 
 
-## 📜 License
+## License
 
 This project is shared under the **MIT License**. You are welcome to use, modify, and distribute this analysis for non-commercial educational purposes with attribution.
 
