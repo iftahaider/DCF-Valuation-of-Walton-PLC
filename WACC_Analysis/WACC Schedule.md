@@ -11,7 +11,7 @@
 | After-Tax Cost of Debt (Rd × (1–T)) | 9.24%                      | 11.92% × (1 – 0.225).                                                |
 | Market Value of Equity (E)        | ~12606 Cr                    | Market Capitalization.                                      |
 | Market Value of Debt (D)          | ~2,670 Cr                    | Total interest-bearing debt (short + long term).                     |
-| Total Capital (V = E + D)         | ~11,366 Cr                   | Sum of equity and debt.                                              |
+| Total Capital (V = E + D)         | ~15,275 Cr                   | Sum of equity and debt.                                              |
 | Equity Weight (E / V)             | 82.52%                       | Reflects equity-heavy capital structure.                             |
 | Debt Weight (D / V)               | 17.48%                       | Modest use of financial leverage.                                    |
 | **WACC**                          | **16.71%**                   | = (E/V × Re) + (D/V × Rd × (1–T)).                                   |
