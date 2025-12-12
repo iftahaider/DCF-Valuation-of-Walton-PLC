@@ -9,7 +9,7 @@
 | Pre-Tax Cost of Debt (Rd)         | 11.92%                       | Implied from current borrowing rates and credit profile.             |
 | Corporate Tax Rate (T)            | 22.5%                        | Normalized effective tax rate post Hi-Tech Park benefit expiry.      |
 | After-Tax Cost of Debt (Rd × (1–T)) | 9.24%                      | 11.92% × (1 – 0.225).                                                |
-| Market Value of Equity (E)        | ~8,696 Cr                    | From DCF equity value estimate.                                      |
+| Market Value of Equity (E)        | ~12606 Cr                    | Market Capitalization.                                      |
 | Market Value of Debt (D)          | ~2,670 Cr                    | Total interest-bearing debt (short + long term).                     |
 | Total Capital (V = E + D)         | ~11,366 Cr                   | Sum of equity and debt.                                              |
 | Equity Weight (E / V)             | 82.52%                       | Reflects equity-heavy capital structure.                             |
