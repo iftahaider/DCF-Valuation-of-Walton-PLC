@@ -156,6 +156,27 @@ This analysis views Walton Hi‑Tech as approximately fairly valued with modest 
 
 > This heatmap demonstrates how Walton’s intrinsic value per share changes under alternative combinations of WACC and terminal growth rates. Each cell reports the implied fair value, with warmer colours indicating lower values and cooler colours higher values. The blue‑outlined cell marks the base‑case assumption set. The grid visually communicates valuation risk, showing both downside scenarios and upside potential if risk perceptions or growth outlook improve.
 
+### Chart 9: DCF Scenario Analysis
+
+![WACC Sensitivity](Charts/Scenario_Analysis.png)
+
+> Walton's valuation is sensitive to macro conditions and execution on strategic initiatives. We model three scenarios with the above results. The probability-weighted fair value of **Tk. 422.30** implies **12.1% upside** from the current market price of Tk. 376.60, offering a balanced risk-reward profile. The wide valuation range (Tk. 313–543) reflects material execution and macro risks that will resolve over the next 12–18 months.
+
+**Bear Case Triggers** (Probability ↑ to 30%+):
+- WDIL merger court approval delayed beyond 2026
+- Lithium battery project cost overruns or market adoption fails
+- Renewed FX crisis (BDT depreciates another 20%+)
+- Chinese competitors enter Bangladesh market aggressively
+- Consumer demand collapse from political instability
+
+**Bull Case Triggers** (Probability ↑ to 40%+):
+- WDIL merger court approval + synergies exceed expectations
+- Lithium battery sales exceed 100k units/year target
+- Bangladesh macro stabilizes (FX stable, inflation <5%)
+- Walton expands into regional markets (India, Southeast Asia)
+- Market recognizes transformation; WACC compresses 100+ bps
+
+
 **Note:** Two charts have been created using Python Code with the guidance of Google Gemini. 
 
 ---
@@ -164,11 +185,15 @@ This analysis views Walton Hi‑Tech as approximately fairly valued with modest 
 
 ### Valuation Summary
 
-| Metric | Value |
-|--------|-------|
-| DCF Fair Value per Share | BDT 393.63 |
-| Current Market Price | BDT 376.60 |
-| Implied Discount to Fair Value | 4.52% |
+| Item | Value |
+|------|-------|
+| DCF Fair Value (Base Case) | **Tk. 393.63** |
+| Probability-Weighted Fair Value | **Tk. 422.30** |
+| Current Market Price | Tk. 376.60 |
+| Base Case Upside | **+4.52%** |
+| Weighted Fair Value Upside | **+12.14%** |
+| Valuation Range (All Scenarios | Tk. 313 – Tk. 543 |
+| Risk/Reward Skew | Favorable (upside 44% vs downside -17%) |
 | Recommendation | **HOLD** 🧿 |
 
 ### Positive Drivers
@@ -190,9 +215,9 @@ This analysis views Walton Hi‑Tech as approximately fairly valued with modest 
 
 | Action | Rationale |
 |--------|-----------|
-| **BUY** | Below BDT 350–360 (>10% upside to fair value) |
-| **HOLD** | BDT 360–420 (fair value range with acceptable risk) |
-| **SELL / TRIM** | Above BDT 450–470 (limited upside, risks outweigh rewards) |
+| **BUY** | Below BDT 360 ACCUMULATE (>15% margin of safety) |
+| **HOLD** | Current levels (not compelling enough for aggressive buying) |
+| **SELL / TRIM** | Above BDT 450 (bull case getting priced in) |
 
 ---
 
