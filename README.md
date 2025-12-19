@@ -1,5 +1,5 @@
 # Walton Hi-Tech Industries PLC – DCF Valuation & Financial Analysis
-A comprehensive financial modeling and valuation project for Walton Hi-Tech Industries PLC, a leading Bangladeshi consumer electronics manufacturer. This repository contains detailed financial statement models, DCF valuation analysis, sensitivity testing, and supporting documentation.
+A comprehensive financial modeling and valuation project for Walton Hi-Tech Industries PLC, which is a leading Bangladeshi consumer electronics manufacturer. This repository contains detailed financial statement models, DCF valuation analysis, sensitivity testing, and supporting documentation.
 
 ## 🎯 Project Overview
 
