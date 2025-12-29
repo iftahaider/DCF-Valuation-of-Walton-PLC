@@ -1,42 +1,11 @@
 # Walton Hi-Tech Industries PLC – DCF Valuation & Financial Analysis
 A comprehensive financial modeling and valuation project for Walton Hi-Tech Industries PLC, which is a leading Bangladeshi consumer electronics manufacturer. This repository contains detailed financial statement models, DCF valuation analysis, sensitivity testing, and supporting documentation.
 
-## 🎯 Project Overview
+## Project Overview
 
 ### Objective
 
 To determine the **intrinsic equity value per share** of Walton Hi-Tech Industries PLC using industry-standard discounted cash flow (DCF) methodology, incorporating detailed financial forecasting, capital structure analysis, and sensitivity testing.
-
-### Business Analysis: Walton Hi-Tech Industries PLC
-
-Walton Hi-Tech Industries PLC is Bangladesh's leading vertically integrated manufacturer of consumer electronics and appliances. The company has established a dominant market position, holding over 65% share in the refrigerator market and approximately 40% in air conditioners, fueled by a strategic vertical integration model that allows it to manufacture 80% of components in-house. 
-
-#### Business Model & Revenue Streams
-
-##### Core Product Portfolio
-*   **Refrigerators & Freezers** (62% of Revenue): Market leader with >65% domestic share.
-*   **Home & Electrical Appliances** (12.5%): Includes washing machines and kitchen appliances.
-*   **Air Conditioning Systems** (8.7%): ~40% domestic market share.
-*   **Televisions** (5.1%): Competing against premium imported brands.
-*   **Expanding Categories:** Laptops, smartphones, electric mobility, and lithium-ion batteries (commencing 2026).
-
-##### Vertical Integration: The Competitive Moat
-Walton operates 22 production facilities manufacturing key components in-house:
-*   **Compressors:** 1.5 million units annual capacity (only domestic manufacturer)
-*   **Plastic & Metal Components:** Full control from raw materials to finished parts
-*   **PCB Manufacturing:** Enhanced capability post-Digi-Tech merger [(*Digi-Tech Merger*)](https://www.tbsnews.net/economy/industry/walton-hi-tech-merge-digi-tech-business-expansion-cost-cutting-1229276)
-*   **Impact:** Estimated 8-12% cost advantage over import-dependent competitors
-
-##### Revenue Distribution & Sales Channels
-*   **B2C Retail (85%+):** 21,000+ retail outlets including 1,000+ "Walton Plaza" branded stores
-*   **Export Sales (7%):** Growing at 45.8% annually across 50+ countries
-*   **B2B Component Sales (8%):** Selling compressors to other manufacturers
-
-##### Strategic Initiatives (2025–2028)
-
-1. **WDIL Merger:** Vertical integration into IT products (laptops, desktops, mobile phones); High Court approval pending.  
-2. **Lithium Battery Project:** 113.66 Crore capex; expected 8–10% EBIT contribution by FY2030.  
-3. **Market Expansion:** Regional exports and premium product positioning.
 
 ### Key Outputs
 
@@ -51,13 +20,13 @@ Walton operates 22 production facilities manufacturing key components in-house:
 
 ### Investment Thesis
 
-**Recommendation: HOLD 🧿**
+**Recommendation: HOLD**
 
 This analysis views Walton Hi‑Tech as approximately fairly valued with modest upside at the current market price of BDT 376.60 versus a DCF‑implied fair value of BDT 393.63. The stock offers a balanced risk–reward profile. The company benefits from earnings recovery, new growth drivers (WDIL IT products, lithium-ion batteries), and improving liquidity, but faces macro risks and competitive pressures. A **HOLD stance** is recommended pending de-risking of major strategic initiatives.
 
 ---
 
-## 📊 Financial Models
+## Financial Models
 
 ### 1. Revenue Forecast
 
@@ -85,7 +54,7 @@ This analysis views Walton Hi‑Tech as approximately fairly valued with modest 
 
 ---
 
-## 💰 DCF Valuation Analysis
+## DCF Valuation Analysis
 
 ### 1. WACC Calculation Summary
 ![WACC Sensitivity](Charts/WACC_Summary.png)
@@ -106,7 +75,7 @@ This analysis views Walton Hi‑Tech as approximately fairly valued with modest 
 
 ---
 
-## 📈 Key Valuation Charts
+## Key Valuation Charts
 
 ### Chart 1: Revenue Trend (2021–2035)
 
@@ -181,7 +150,7 @@ This analysis views Walton Hi‑Tech as approximately fairly valued with modest 
 
 ---
 
-## 🔍 Key Findings & Recommendations
+## Key Findings & Recommendations
 
 ### Valuation Summary
 
@@ -194,7 +163,7 @@ This analysis views Walton Hi‑Tech as approximately fairly valued with modest 
 | Weighted Fair Value Upside | **+12.14%** |
 | Valuation Range (All Scenarios | Tk. 313 – Tk. 543 |
 | Risk/Reward Skew | Favorable (upside 44% vs downside -17%) |
-| Recommendation | **HOLD** 🧿 |
+| Recommendation | **HOLD** |
 
 ### Positive Drivers
 
@@ -221,7 +190,7 @@ This analysis views Walton Hi‑Tech as approximately fairly valued with modest 
 
 ---
 
-## 📐 Methodology & Assumptions
+## Methodology & Assumptions
 
 ### Valuation Approach
 
@@ -292,7 +261,7 @@ I acknowledge that this model has some limitations. These are as follows:
 
 ---
 
-## 📚 Additional Resources
+## Additional Resources
 
 ### Data Sources
 
@@ -314,7 +283,7 @@ I acknowledge that this model has some limitations. These are as follows:
 **Note:** I also followed a book called "**Financial Modeling and Valuation: A Practical Guide to Investment Banking and Private Equity**" by Paul Pignataro and **YouTube Channel:** [(Paul Pignataro)](https://youtube.com/@anextraining?si=y-K5Ga1ncVwaRtap)
 
 
-## 💬 Contact & Attribution
+## Contact & Attribution
 
 **Project prepared by:** Ifta Hider Rahman  
 **Date completed:** December 3, 2025  
@@ -326,7 +295,7 @@ For questions, feedback, or to discuss the analysis:
 - 💻 GitHub: [@iftahaider](https://github.com/iftahaider)
 
 
-## 💻 Files
+## Files
 Please refer to the following folders to access all components of the Walton PLC DCF Valuation project.
 - `Analysis/` – Contains the full company analysis, macroeconomic review, risk factors, projected financials, and valuation breakdowns.
 - `Charts/` – Visual figures and charts used in the valuation report
